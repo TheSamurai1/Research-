@@ -1,0 +1,4324 @@
+2001,2007,No occupation found
+2001,2008,No occupation found
+2001,2008,American actress
+2001,2008,American golfer
+2001,2008,American pianist, composer and singer
+2001,2008,American actor
+2001,2009,American actress (born 2001)
+2001,2009,American actress (born 2001)
+2001,2009,American actor (born 2001)
+2001,2009,Spanish-American activist against gun violence
+2001,2009,American actress
+2001,2010,American child actor (born 2001)
+2001,2010,American actor (born 2001)
+2001,2010,American actress
+2001,2010,American actor (born 2001)
+2001,2011,American actor
+2001,2011,American actress
+2001,2012,American actor (born 2001)
+2001,2012,American painter
+2001,2012,American former actress and model (born 2001)
+2001,2012,American dancer and reality television personality (born 2001)
+2001,2012,American actor
+2001,2013,American actress
+2001,2013,American teen actor (born 2001)
+2001,2013,American rock climber (born 2001)
+2001,2013,American actor (born 2001)
+2001,2013,American painter
+2001,2013,American actress
+2000,2013,American skateboarder
+2001,2013,Canadian actress (born 2001)
+2001,2013,American model (born 2001)
+2003,2014,2013 comedy television series
+2001,2014,American rock climber
+2001,2014,American artistic gymnast (born 2001)
+2001,2014,American artistic gymnast
+2001,2014,American Little League baseball and softball player
+2000,2014,American actor
+2001,2014,American pianist
+2001,2015,British racing driver (born 2001)
+2001,2015,American artistic gymnast
+2001,2015,American musician
+2001,2015,American artistic gymnast
+2001,2015,American figure skater (born 2001)
+2001,2015,American actress (born 2001)
+2001,2015,American basketball player
+2001,2015,American actress (born 2001)
+2001,2015,American actor (born 2001)
+2001,2015,American actress (born 2001)
+2001,2015,American chess grandmaster (born 2001)
+2001,2015,American model and actress (born 2001)
+2001,2015,American singer-songwriter
+2001,2016,American actress (born 2001)
+2001,2016,American television actor
+2001,2016,American singer-songwriter (born 2001)
+2001,2016,American skier
+2001,2016,American artistic gymnast (born 2001)
+2001,2016,American tennis player (born 2001)
+2001,2016,American actor
+2001,2016,Korean-American actor
+2001,2016,American actress (born 2001)
+2001,2016,American actor (born 2001)
+2001,2016,American actress
+2001,2016,American racing driver
+2001,2016,American basketball player
+2001,2016,Canadian racing driver (born 2001)
+2001,2016,Brazilian racing driver (born 2001)
+2001,2017,American chess grandmaster (born 2001)
+2001,2017,American basketball player (born 2001)
+2001,2017,Italian-American basketball player (born 2001)
+2001,2017,Musical artist
+2001,2017,American artistic gymnast
+2001,2017,American singer
+2001,2017,American ice dancer
+2001,2017,American figure skater
+2001,2017,American actor
+2001,2017,American ice hockey player
+2001,2017,American singer-songwriter (born 2001)
+2001,2017,American actor
+2001,2017,American soccer player (born 2001)
+2001,2016,American actress, dancer (born 2001)
+2001,2017,American Rubik's Cube speedsolver
+2001,2017,Canadian soccer player (born 2001)
+2001,2017,Filipino swimmer
+2001,2017,American artistic gymnast
+2001,2017,American actor (born 2001)
+2001,2017,American tennis player (born 2001)
+2001,2017,Dutch footballer
+2001,2017,American soccer player
+2001,2017,Taiwanese-American figure skater
+2001,2017,American auto racing driver
+2001,2017,Canadian artistic gymnast
+2001,2017,American soccer player
+2001,2017,New Zealand snowboarder (born 2001)
+2001,2017,Swiss figure skater
+2001,2017,American singer (born 2001)
+2000,2017,Liberian professional footballer (born 2000)
+2001,2017,American actor
+2001,2017,Cypriot footballer
+2001,2017,Canadian soccer player (born 2001)
+2001,2017,Canadian soccer player
+2001,2017,American professional soccer player
+2001,2015,American actress (born 2001)
+2001,2018,Brazilian footballer
+2001,2018,American environmental activist (born 2001)
+2001,2018,Mexican footballer
+2001,2018,French-American basketball player (born 2001)
+2001,2018,American basketball player (born 2001)
+2001,2018,English footballer
+2001,2018,South Korean ice hockey player (born 2001)
+2001,2018,American racing driver (born 2001)
+2001,2018,American activist
+2001,2018,American activist (born 2001)
+2001,2018,American racing driver (born 2001)
+2001,2018,American actor (born 2001)
+2001,2018,American racing driver
+2001,2018,American conservative activist
+2001,2018,Australian soccer player
+2001,2018,Filipino footballer
+2001,2018,American basketball player (born 2001)
+2001,2018,English artistic gymnast
+2001,2018,American soccer player (born 2001)
+2001,2018,Jamaican-born American footballer (born 2001)
+2001,2018,American soccer player
+2001,2018,Kazakhstani women's football striker
+2001,2018,American ice hockey player (born 2001)
+2001,2007,No occupation found
+2001,2008,No occupation found
+2001,2008,American actress
+2001,2008,American golfer
+2001,2008,American pianist, composer and singer
+2001,2008,American actor
+2001,2009,American actress (born 2001)
+2001,2009,American actress (born 2001)
+2001,2009,American actor (born 2001)
+2001,2009,Spanish-American activist against gun violence
+2001,2009,American actress
+2001,2010,American child actor (born 2001)
+2001,2010,American actor (born 2001)
+2001,2010,American actress
+2001,2010,American actor (born 2001)
+2001,2011,American actor
+2001,2011,American actress
+2001,2012,American actor (born 2001)
+2001,2012,American painter
+2001,2012,American former actress and model (born 2001)
+2001,2012,American dancer and reality television personality (born 2001)
+2001,2012,American actor
+2001,2013,American actress
+2001,2007,No occupation found
+2001,2008,No occupation found
+2001,2008,American actress
+2001,2008,American golfer
+2001,2008,American pianist, composer and singer
+2001,2008,American actor
+2001,2009,American actress (born 2001)
+2001,2009,American actress (born 2001)
+2001,2009,American actor (born 2001)
+2001,2009,Spanish-American activist against gun violence
+2001,2009,American actress
+2001,2010,American child actor (born 2001)
+2001,2010,American actor (born 2001)
+2001,2010,American actress
+2001,2010,American actor (born 2001)
+2001,2011,American actor
+2001,2011,American actress
+2001,2012,American actor (born 2001)
+2001,2012,American painter
+2001,2012,American former actress and model (born 2001)
+2001,2012,American dancer and reality television personality (born 2001)
+2001,2012,American actor
+2001,2013,American actress
+2001,2013,American teen actor (born 2001)
+2001,2013,American rock climber (born 2001)
+2001,2013,American actor (born 2001)
+2001,2013,American painter
+2001,2013,American actress
+2000,2013,American skateboarder
+2001,2013,Canadian actress (born 2001)
+2001,2013,American model (born 2001)
+2003,2014,2013 comedy television series
+2001,2014,American rock climber
+2001,2014,American artistic gymnast (born 2001)
+2001,2014,American artistic gymnast
+2001,2014,American Little League baseball and softball player
+2000,2014,American actor
+2001,2014,American pianist
+2001,2015,British racing driver (born 2001)
+2001,2015,American artistic gymnast
+2001,2015,American musician
+2001,2015,American artistic gymnast
+2001,2015,American figure skater (born 2001)
+2001,2015,American actress (born 2001)
+2001,2015,American basketball player
+2001,2015,American actress (born 2001)
+2001,2015,American actor (born 2001)
+2001,2015,American actress (born 2001)
+2001,2015,American chess grandmaster (born 2001)
+2001,2015,American model and actress (born 2001)
+2001,2015,American singer-songwriter
+2001,2016,American actress (born 2001)
+2001,2016,American television actor
+2001,2016,American singer-songwriter (born 2001)
+2001,2016,American skier
+2001,2016,American artistic gymnast (born 2001)
+2001,2016,American tennis player (born 2001)
+2001,2016,American actor
+2001,2016,Korean-American actor
+2001,2016,American actress (born 2001)
+2001,2016,American actor (born 2001)
+2001,2016,American actress
+2001,2016,American racing driver
+2001,2016,American basketball player
+2001,2016,Canadian racing driver (born 2001)
+2001,2016,Brazilian racing driver (born 2001)
+2001,2017,American chess grandmaster (born 2001)
+2001,2017,American basketball player (born 2001)
+2001,2017,Italian-American basketball player (born 2001)
+2001,2017,Musical artist
+2001,2017,American artistic gymnast
+2001,2017,American singer
+2001,2017,American ice dancer
+2001,2017,American figure skater
+2001,2017,American actor
+2001,2017,American ice hockey player
+2001,2017,American singer-songwriter (born 2001)
+2001,2017,American actor
+2001,2017,American soccer player (born 2001)
+2001,2016,American actress, dancer (born 2001)
+2001,2017,American Rubik's Cube speedsolver
+2001,2017,Canadian soccer player (born 2001)
+2001,2017,Filipino swimmer
+2001,2017,American artistic gymnast
+2001,2017,American actor (born 2001)
+2001,2017,American tennis player (born 2001)
+2001,2017,Dutch footballer
+2001,2017,American soccer player
+2001,2017,Taiwanese-American figure skater
+2001,2017,American auto racing driver
+2001,2017,Canadian artistic gymnast
+2001,2017,American soccer player
+2001,2017,New Zealand snowboarder (born 2001)
+2001,2017,Swiss figure skater
+2001,2017,American singer (born 2001)
+2000,2017,Liberian professional footballer (born 2000)
+2001,2017,American actor
+2001,2017,Cypriot footballer
+2001,2017,Canadian soccer player (born 2001)
+2001,2017,Canadian soccer player
+2001,2017,American professional soccer player
+2001,2015,American actress (born 2001)
+2001,2018,Brazilian footballer
+2001,2018,American environmental activist (born 2001)
+2001,2018,Mexican footballer
+2001,2018,French-American basketball player (born 2001)
+2001,2018,American basketball player (born 2001)
+2001,2018,English footballer
+2001,2018,South Korean ice hockey player (born 2001)
+2001,2018,American racing driver (born 2001)
+2001,2018,American activist
+2001,2018,American activist (born 2001)
+2001,2018,American racing driver (born 2001)
+2001,2018,American actor (born 2001)
+2001,2018,American racing driver
+2001,2018,American conservative activist
+2001,2018,Australian soccer player
+2001,2018,Filipino footballer
+2001,2018,American basketball player (born 2001)
+2001,2018,English artistic gymnast
+2001,2018,American soccer player (born 2001)
+2001,2018,Jamaican-born American footballer (born 2001)
+2001,2018,American soccer player
+2001,2018,Kazakhstani women's football striker
+2001,2018,American ice hockey player (born 2001)
+2001,2018,Mexican footballer (born 2001)
+2001,2018,American actor (born 2001)
+2001,2018,American pianist
+2001,2018,American soccer player
+2001,2018,American soccer player
+2001,2018,American powerlifter (born 2001)
+2001,2018,American singer and songwriter
+2001,2018,Irish athlete (born 2001)
+2001,2018,American soccer player
+2001,2018,American soccer player
+2001,2018,New Zealand footballer (born 2001)
+2001,2018,Israeli basketball player (born 2001)
+2001,2018,American racing driver
+2001,2018,Dutch basketball player
+2001,2018,American tennis player (born 2001)
+2001,2018,Italian swimmer (born 2001)
+2001,2018,American soccer player
+2001,2018,Cambodian ju-jitsu practitioner
+2001,2018,American soccer player
+2001,2018,American soccer player
+2001,2018,American-born Fijian women's footballer
+2001,2018,American soccer player
+2001,2018,American sport shooter
+2001,2018,American soccer player
+2000,2018,Antiguan-American model and activist
+2001,2018,British tennis player
+2001,2018,American soccer player
+2001,2018,American racing driver (born 2001)
+2001,2018,English footballer
+2001,2007,No occupation found
+2001,2008,No occupation found
+2001,2008,American actress
+2001,2008,American golfer
+2001,2008,American pianist, composer and singer
+2001,2008,American actor
+2001,2009,American actress (born 2001)
+2001,2009,American actress (born 2001)
+2001,2009,American actor (born 2001)
+2001,2009,Spanish-American activist against gun violence
+2001,2009,American actress
+2001,2010,American child actor (born 2001)
+2001,2010,American actor (born 2001)
+2001,2010,American actress
+2001,2010,American actor (born 2001)
+2001,2011,American actor
+2001,2011,American actress
+2001,2012,American actor (born 2001)
+2001,2012,American painter
+2001,2012,American former actress and model (born 2001)
+2001,2012,American dancer and reality television personality (born 2001)
+2001,2012,American actor
+2001,2013,American actress
+2001,2013,American teen actor (born 2001)
+2001,2013,American rock climber (born 2001)
+2001,2013,American actor (born 2001)
+2001,2013,American painter
+2001,2013,American actress
+2000,2013,American skateboarder
+2001,2013,Canadian actress (born 2001)
+2001,2013,American model (born 2001)
+2003,2014,2013 comedy television series
+2001,2014,American rock climber
+2001,2014,American artistic gymnast (born 2001)
+2001,2014,American artistic gymnast
+2001,2014,American Little League baseball and softball player
+2000,2014,American actor
+2001,2014,American pianist
+2001,2015,British racing driver (born 2001)
+2001,2015,American artistic gymnast
+2001,2015,American musician
+2001,2015,American artistic gymnast
+2001,2015,American figure skater (born 2001)
+2001,2015,American actress (born 2001)
+2001,2015,American basketball player
+2001,2015,American actress (born 2001)
+2001,2015,American actor (born 2001)
+2001,2015,American actress (born 2001)
+2001,2015,American chess grandmaster (born 2001)
+2001,2015,American model and actress (born 2001)
+2001,2015,American singer-songwriter
+2001,2016,American actress (born 2001)
+2001,2016,American television actor
+2001,2016,American singer-songwriter (born 2001)
+2001,2016,American skier
+2001,2016,American artistic gymnast (born 2001)
+2001,2016,American tennis player (born 2001)
+2001,2016,American actor
+2001,2016,Korean-American actor
+2001,2016,American actress (born 2001)
+2001,2016,American actor (born 2001)
+2001,2016,American actress
+2001,2016,American racing driver
+2001,2016,American basketball player
+2001,2016,Canadian racing driver (born 2001)
+2001,2016,Brazilian racing driver (born 2001)
+2001,2017,American chess grandmaster (born 2001)
+2001,2017,American basketball player (born 2001)
+2001,2017,Italian-American basketball player (born 2001)
+2001,2017,Musical artist
+2001,2017,American artistic gymnast
+2001,2017,American singer
+2001,2017,American ice dancer
+2001,2017,American figure skater
+2001,2017,American actor
+2001,2017,American ice hockey player
+2001,2017,American singer-songwriter (born 2001)
+2001,2017,American actor
+2001,2017,American soccer player (born 2001)
+2001,2016,American actress, dancer (born 2001)
+2001,2017,American Rubik's Cube speedsolver
+2001,2017,Canadian soccer player (born 2001)
+2001,2017,Filipino swimmer
+2001,2017,American artistic gymnast
+2001,2017,American actor (born 2001)
+2001,2017,American tennis player (born 2001)
+2001,2017,Dutch footballer
+2001,2017,American soccer player
+2001,2017,Taiwanese-American figure skater
+2001,2017,American auto racing driver
+2001,2017,Canadian artistic gymnast
+2001,2017,American soccer player
+2001,2017,New Zealand snowboarder (born 2001)
+2001,2017,Swiss figure skater
+2001,2017,American singer (born 2001)
+2000,2017,Liberian professional footballer (born 2000)
+2001,2017,American actor
+2001,2017,Cypriot footballer
+2001,2017,Canadian soccer player (born 2001)
+2001,2017,Canadian soccer player
+2001,2017,American professional soccer player
+2001,2015,American actress (born 2001)
+2001,2018,Brazilian footballer
+2001,2018,American environmental activist (born 2001)
+2001,2018,Mexican footballer
+2001,2018,French-American basketball player (born 2001)
+2001,2018,American basketball player (born 2001)
+2001,2018,English footballer
+2001,2018,South Korean ice hockey player (born 2001)
+2001,2018,American racing driver (born 2001)
+2001,2018,American activist
+2001,2018,American activist (born 2001)
+2001,2018,American racing driver (born 2001)
+2001,2018,American actor (born 2001)
+2001,2018,American racing driver
+2001,2018,American conservative activist
+2001,2018,Australian soccer player
+2001,2018,Filipino footballer
+2001,2018,American basketball player (born 2001)
+2001,2018,English artistic gymnast
+2001,2018,American soccer player (born 2001)
+2001,2018,Jamaican-born American footballer (born 2001)
+2001,2018,American soccer player
+2001,2018,Kazakhstani women's football striker
+2001,2018,American ice hockey player (born 2001)
+2001,2018,Mexican footballer (born 2001)
+2001,2018,American actor (born 2001)
+2001,2018,American pianist
+2001,2018,American soccer player
+2001,2018,American soccer player
+2001,2018,American powerlifter (born 2001)
+2001,2018,American singer and songwriter
+2001,2018,Irish athlete (born 2001)
+2001,2018,American soccer player
+2001,2018,American soccer player
+2001,2018,New Zealand footballer (born 2001)
+2001,2018,Israeli basketball player (born 2001)
+2001,2018,American racing driver
+2001,2018,Dutch basketball player
+2001,2018,American tennis player (born 2001)
+2001,2018,Italian swimmer (born 2001)
+2001,2018,American soccer player
+2001,2018,Cambodian ju-jitsu practitioner
+2001,2018,American soccer player
+2001,2018,American soccer player
+2001,2018,American-born Fijian women's footballer
+2001,2018,American soccer player
+2001,2018,American sport shooter
+2001,2018,American soccer player
+2000,2018,Antiguan-American model and activist
+2001,2018,British tennis player
+2001,2018,American soccer player
+2001,2018,American racing driver (born 2001)
+2001,2018,English footballer
+2001,2018,Canadian soccer player
+2001,2018,American tennis player (born 2001)
+2001,2018,Ukrainian-American ice dancer
+2001,2018,Mexican footballer (born 2001)
+2001,2018,English footballer
+2001,2018,Argentine footballer (born 2001)
+2001,2018,American singer-songwriter
+2001,2018,Argentine footballer
+2001,2018,Puerto Rican footballer
+2001,2018,American actor
+2001,2018,Swedish Racing Driver
+2001,2018,English footballer
+2001,2018,Bulgarian footballer
+2001,2018,Musical artist
+2001,2018,French basketball player (born 2001)
+2001,2018,American actress
+2001,2018,American soccer player
+2001,2018,New Zealand tennis player
+2001,2019,American tennis player (born 2001)
+2001,2019,Puerto Rican footballer
+2001,2019,Finnish footballer (born 2001)
+2001,2019,Northern Mariana Islander footballer (born 2001)
+2001,2019,New Zealand tennis player
+2001,2019,Polish footballer
+2001,2019,Northern Mariana Islands footballer (born 2001)
+2001,2019,American soccer player
+1999,2019,English association football player
+2001,2019,Hungarian tennis player
+2001,2019,American basketball player (born 2001)
+2001,2019,American ice dancer
+2001,2019,American basketball player (born 2001)
+2001,2019,Greek tennis player
+2001,2019,Northern Mariana Islander tennis player (born 2001)
+2001,2019,Venezuelan footballer (born 2001)
+2001,2019,English footballer
+2001,2019,American rapper (born 2001)
+2001,2019,American snowboarder (born 2001)
+2001,2019,American track and field athlete
+2001,2019,Estonian basketball player
+2001,2019,American fashion model
+2001,2019,American tennis player
+2001,2019,Jamaican footballer (born 2001)
+2001,2019,Jamaican footballer (born 2001)
+2001,2019,American actor (born 2001)
+2001,2019,Japanese footballer
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,American actor (born 2001)
+2001,2019,Haitian footballer (born 2001)
+2001,2019,American Fisherman
+2001,2019,American soccer player
+2001,2019,American singer-songwriter
+2001,2019,American ice hockey player (born 2001)
+2001,2019,Canadian artistic gymnast
+2001,2019,Jordanian footballer
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,American soccer player (born 2001)
+2001,2019,Swedish footballer
+2001,2019,American actress (born 2001)
+2001,2019,American soccer player
+2001,2019,Venezuelan footballer
+2001,2019,American figure skater
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,American tennis player (born 2001)
+2001,2019,American actor
+2001,2019,Indian tennis player
+2001,2019,Venezuelan footballer (born 2001)
+2001,2019,American soccer player
+2001,2019,Argentine professional footballer
+2001,2019,American basketball player (born 2001)
+2001,2019,American basketball player
+2001,2019,American soccer player (born 2001)
+2001,2019,American field hockey player (born 2001)
+2001,2019,American internet personality (born 2001)
+2001,2019,American basketball player (born 2001)
+2001,2019,Icelandic basketball player
+2001,2019,American soccer player
+2001,2019,American basketball player (born 2001)
+2001,2019,Swiss ice hockey player
+2001,2019,Swiss ice hockey goaltender
+2001,2019,Czech ice hockey player
+2001,2019,2019 mass shooting in Highlands Ranch, Colorado
+2001,2019,American basketball player (born 2001)
+2001,2019,American high fashion model (born 2001)
+2001,2019,American soccer player (born 2001)
+2001,2019,American soccer player
+2001,2019,German basketball player (born 2001)
+2001,2019,Dutch basketball player (born 2001)
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,American soccer player (born 2001)
+2001,2019,American soccer player (born 2001)
+2001,2019,American soccer player
+2001,2019,American professional soccer player
+2001,2019,French tennis player
+2001,2019,American writer (born 2001)
+2001,2019,Baseball player
+2001,2019,Baseball player
+2001,2019,Panamanian baseball player
+2001,2019,American baseball player (born 2001)
+2001,2019,American baseball player (born 2001)
+2001,2019,Dominican baseball player (born 2001)
+2001,2019,American actor (born 2001)
+2001,2019,Mexican footballer (born 2001)
+2002,2019,American soccer player
+2002,2019,Japanese association football player
+2001,2019,New Zealand footballer
+2001,2019,American professional golfer
+2001,2019,American footballer
+2001,2019,American footballer
+2001,2019,American soccer player
+2001,2019,American professional soccer player
+2001,2019,American ice hockey player (born 2001)
+2001,2019,American ice hockey player (born 2001)
+2001,2019,American ice hockey player (born 2001)
+2001,2019,American ice hockey player (born 2001)
+2001,2019,American ice hockey player (born 2001)
+2001,2019,Canadian ice hockey player (born 2001)
+2001,2019,Canadian ice hockey player (born 2001)
+2001,2019,American ice hockey player (born 2001)
+2001,2019,American ice hockey player (born 2001)
+2001,2019,Uzbekistani-American ice hockey player
+2001,2019,American actor
+2001,2019,Professional footballer (born 2001)
+2001,2019,American basketball player (born 2001)
+2001,2019,American soccer player
+2001,2019,American diver
+2001,2019,American actress and singer (born 2001)
+2001,2019,American tennis player (born 2001)
+2001,2019,American basketball player
+2001,2019,Dominican baseball player (born 2001)
+2001,2019,Botswana swimmer
+2001,2019,German swimmer
+2001,2019,American soccer player
+2001,2019,American basketball player (born 2001)
+2001,2019,Dominican baseball player (born 2001)
+2001,2019,American basketball player (born 2001)
+2001,2019,American basketball player (born 2001)
+2001,2019,Turkish swimmer (born 2001)
+2001,2019,American tennis player
+2001,2019,American basketball player (born 2001)
+2001,2019,French basketball player
+2001,2019,American basketball player
+2001,2019,American tennis player (born 2001)
+2001,2019,American cyclist
+2001,2019,American basketball player (born 2001)
+2001,2019,Malian basketball player
+2001,2019,American soccer player
+2001,2019,German–Bosnian footballer
+2001,2019,American football player (born 2001)
+2001,2019,Nigerian sprinter (born 2001)
+2001,2019,American cricketer
+2001,2019,Burkinabé footballer
+2001,2019,American tennis player (born 2001)
+2001,2019,American tennis player (born 2001)
+2001,2019,American football player (born 2001)
+2001,2019,American basketball player (born 2001)
+2001,2019,American basketball player
+2001,2019,Bahamian basketball player (born 2001)
+2001,2019,American soccer player
+2001,2019,Paraguayan football player (born 2001)
+2001,2019,Brazilian footballer (born 2001)
+2001,2019,American basketball player (2001–2021)
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,American basketball player (born 2001)
+2001,2019,Haitian footballer (born 2001)
+2001,2019,Senegalese footballer
+2001,2019,Chilean footballer (born 2001)
+2001,2019,Danish footballer (born 2001)
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,Spanish basketball player (born 2001)
+2001,2019,American tennis player
+2001,2019,Russian basketball player (born 2001)
+2001,2019,American soccer player
+2001,2019,American soccer player
+2001,2019,Haitian footballer (born 2001)
+2001,2019,Singaporean racing driver
+2001,2019,American football player (born 2001)
+2000,2019,American racing driver
+2001,2019,American basketball player (born 2001)
+2001,2019,Finnish footballer (born 2001)
+2001,2019,American basketball player (born 2001)
+2001,2019,American football player (born 2001)
+2001,2019,American former soccer player
+2001,2019,Finnish ice hockey player (born 2001)
+2001,2019,American football player (born 2001)
+2001,2019,American football player (born 2001)
+2001,2019,American football player (born 2001)
+2001,2019,American basketball player (born 2001)
+2001,2019,American-born Swiss footballer (born 2001)
+2001,2019,American soccer player
+2001,2020,American soccer player
+2001,2020,American basketball player
+2000,2020,Canadian racing driver
+2001,2020,Brazilian footballer
+2001,2020,American basketball player (born 2001)
+2001,2020,American basketball player (born 2001)
+2001,2020,American actor and musician (born 2001)
+2001,2020,American basketball player (born 2001)
+2001,2020,American basketball player
+2001,2020,American basketball player
+2001,2020,American basketball player
+2001,2020,American basketball player (born 2001)
+2001,2020,Haitian footballer (born 2001)
+2001,2020,American racing driver
+2001,2020,American soccer player (born 2001)
+2001,2020,American figure skater
+2001,2020,Venezuelan footballer (born 2001)
+2001,2020,Puerto Rican basketball player
+2001,2020,Russian tennis player
+2001,2020,Trinidadian footballer
+2001,2020,American racing driver
+2001,2020,American soccer player (born 2001)
+2001,2020,American basketball player (born 2001)
+2001,2020,American baseball player
+2001,2020,American cyclist
+2001,2020,Thai-American figure skater (born 2001)
+2001,2020,American basketball player (born 2001)
+2001,2020,Mexican American basketball player (born 2001)
+2001,2020,American baseball player (born 2001)
+2001,2020,Dominican baseball player
+2001,2020,American baseball player
+2001,2020,American soccer player
+2001,2020,American soccer player
+2001,2020,American basketball player (born 2001)
+2001,2020,French-American actor
+2001,2020,American social media personality (born 2001)
+2001,2020,American basketball player (born 2001)
+2001,2020,American rapper from Texas
+2001,2020,American football player (born 2001)
+2001,2020,American college basketball player
+2001,2020,Guatemalan footballer
+2001,2020,Canadian–Guyanese footballer
+2002,2020,American basketball player
+2001,2020,Puerto Rican footballer (born 2001)
+2001,2020,American basketball player (born 2001)
+2001,2020,American football and baseball player (born 2001)
+2001,2020,American rapper (born 2001)
+2001,2020,American baseball player
+2001,2020,American baseball player
+2001,2020,American rhythmic gymnast
+2001,2020,American baseball player
+2001,2020,American singer
+2001,2020,Iranian-American social entrepreneur and activist (born 2001)
+2001,2020,Greek basketball player (born 2001)
+2001,2020,American trampoline gymnast
+2001,2020,English footballer
+2001,2020,Uruguayan basketball player (born 2001)
+2001,2020,Icelandic basketball player
+2001,2020,American basketball player (born 2001)
+2001,2020,American artistic gymnast
+2001,2020,German footballer
+2001,2020,American basketball player (born 2001)
+2001,2020,Albanian footballer
+2001,2020,American-raised Armenian footballer
+2001,2020,Jamaican footballer (born 2001)
+2001,2020,American chess grandmaster (born 2001)
+2001,2020,American rapper, singer, and songwriter (born 2001)
+2001,2020,American singer, rapper, and songwriter (born 2001)
+2001,2020,Brazilian footballer
+2001,2020,American baseball player (born 2001)
+2001,2020,Danish footballer (born 2001)
+2001,2020,American baseball player
+2001,2020,Icelandic footballer
+2001,2020,American soccer player
+2001,2020,American basketball player (born 2001)
+2001,2020,Macedonian basketball player
+2001,2020,Jamaican tennis player
+2001,2020,American social media influencer and space enthusiast
+2002,2020,American soccer player
+2001,2020,Ivorian footballer (born 2001)
+2001,2020,American soccer player
+2001,2020,American basketball player (born 2001)
+2001,2020,American soccer player
+2001,2020,American badminton player (born 2001)
+2001,2020,Uruguayan footballer
+2001,2020,Ghanaian footballer
+2001,2020,Puerto Rican soccer player
+2001,2020,Northern Irish footballer
+2001,2020,Senegalese footballer
+2001,2020,American soccer player
+2001,2020,American professional soccer player
+2001,2020,American soccer player
+2001,2020,American basketball player
+2001,2020,American rapper from New York
+2001,2020,American racing driver
+2001,2020,Brazilian footballer
+2001,2020,American racing driver
+2001,2020,Japanese footballer
+2001,2020,American soccer player
+2001,2020,American soccer player
+2001,2020,American soccer player
+2001,2020,American swimmer (born 2001)
+2001,2020,American racing driver (born 2001)
+2001,2020,American soccer player
+2001,2020,Nigerien footballer
+2001,2020,Hong Kong pro-independence activist
+2001,2020,American professional soccer player
+2001,2020,American ice hockey player
+2001,2020,American auto racing driver
+2001,2020,American boxer
+2001,2020,Brazilian footballer
+2001,2020,Bolivian footballer (born 2001)
+2001,2020,Canadian soccer player
+2001,2020,American soccer player
+2001,2020,American soccer player
+2001,2020,American contortionist (born 2001)
+2001,2020,American musician and TikTok personality
+2001,2020,Cypriot tennis player (born 2001)
+2001,2020,American soccer player
+2001,2020,American soccer player
+2001,2020,American wrestler (born 2001)
+2001,2020,American rapper and social media personality
+2001,2020,Kittitian footballer
+2001,2020,French singer, dancer and model (born 2001)
+2001,2020,American actress (born 2001)
+2001,2020,Uruguayan footballer (born 2001)
+2001,2020,Uruguayan footballer (born 2001)
+2001,2020,German footballer
+2001,2020,Brazilian footballer (born 2001)
+2001,2020,American football player
+2001,2020,American soccer player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American basketball player
+2001,2020,Canadian ice hockey player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American ice hockey player (born 2001)
+2001,2020,Canadian ice hockey player (born 2001)
+2001,2020,Puerto Rican swimmer (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American ice hockey player (born 2001)
+2001,2020,Ghanaian footballer (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,English field hockey player
+2001,2020,American ice hockey player
+2001,2020,American soccer player
+2001,2020,Argentine professional footballer
+2001,2020,Swedish ice hockey goaltender
+2001,2020,American soccer player (born 2001)
+2001,2020,American basketball player
+2001,2020,American basketball player
+2001,2020,Argentine professional footballer
+2001,2020,French footballer
+2001,2020,American football player (born 2001)
+2001,2020,American basketball player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American basketball player
+2001,2020,American football player (born 2001)
+2001,2020,English footballer
+2001,2020,American model and activist
+2001,2020,American football player (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,French footballer
+2001,2020,American ice hockey player
+2001,2020,American football player (2001–2020)
+2001,2020,Brazilian racing driver (born 2001)
+2001,2020,American football player (born 2001)
+2001,2020,American rapper (born 2001)
+2001,2021,American soccer player (born 2001)
+2001,2021,Canadian ice hockey player (born 2001)
+2001,2021,Canadian ice hockey player
+2001,2021,American politician
+2001,2021,American soccer player
+2001,2021,American wrestler (born 2001)
+2001,2021,American-Kazakhstani ice dancer
+2001,2021,American politician in West Virginia
+2001,2021,American football player (born 2001)
+2001,2021,Finnish footballer (born 2001)
+2001,2021,Hong Kong pro-independence activist, utilitarian and writer (born 2001)
+2001,2021,American figure skater
+2001,2021,Portuguese footballer
+2001,2021,American basketball player
+2001,2021,Nigerian basketball player
+2001,2021,Russian ice hockey player (born 2001)
+2001,2021,Icelandic basketball player
+2001,2021,American activist
+2001,2021,American racing driver (born 2001)
+2001,2021,Argentine footballer (born 2001)
+2001,2021,Slovak footballer
+2001,2021,Venezuelan baseball player (born 2001)
+2001,2021,Venezuelan footballer (born 2001)
+2001,2021,American basketball player
+2001,2021,Puerto Rican footballer
+2001,2021,American–Mexican footballer (born 2001)
+2001,2021,American basketball player (born 2001)
+2001,2021,Portuguese footballer
+2001,2021,American basketball player (born 2001)
+2001,2021,American college basketball player
+2001,2021,American basketball player
+2001,2021,American soccer player
+2001,2021,American influencer (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,Malian footballer
+2001,2021,American basketball player
+2001,2021,New Zealand motor racing driver
+2001,2021,American freestyle skier
+2001,2021,American freestyle skier
+2001,2021,American freestyle skier
+2001,2021,Soccer player (born 2001)
+2001,2021,Israeli association footballer
+2001,2021,American racing driver
+2001,2021,Greek-born American football player (born 2001)
+2001,2021,Ghanaian footballer
+2001,2021,Caymanian footballer
+2001,2021,U.S. Virgin Island soccer player
+2001,2021,Brazilian footballer (born 2001)
+2001,2021,American basketball player (born 2001)
+2001,2021,American soccer player (born 2001))
+2001,2021,Nigerian basketball player
+2001,2021,American soccer player
+2001,2021,American basketball player (born 2001)
+2001,2021,Central African Republic association footballer
+2001,2021,Liechtensteiner footballer
+2001,2021,Brazilian footballer
+2001,2021,American rapper (born 2001)
+2001,2021,American rock climber
+2001,2021,Brazilian football player
+2001,2021,Ghanaian footballer
+2001,2021,American rapper from Florida
+2001,2021,American soccer player
+2001,2021,Spanish basketball player
+2001,2021,American-Spanish-Guatemalan racing driver
+2001,2021,Musical artist
+2001,2021,Venezuelan baseball player (born 2001)
+2001,2021,Turkish footballer
+2001,2021,American basketball player (born 2001)
+2001,2021,Colombian footballer (born 2001)
+2001,2021,American basketball player
+2001,2021,American football player (born 2001)
+2001,2021,Former Montana Politician
+2001,2021,American football player (born 2001)
+2001,2021,American tennis player
+2001,2021,Sierra Leonean footballer
+2001,2021,Salvadoran footballer (born 2001)
+2001,2021,Congolese footballer
+2001,2021,French footballer
+2001,2021,American basketball player (born 2001)
+2001,2021,American racing driver (born 2001)
+2001,2021,English footballer (born 2001)
+2001,2021,Canadian ice hockey player
+2001,2021,American basketball player
+2001,2021,Dutch-American swimmer
+2001,2021,American football player (born 2001)
+2001,2021,Swedish swimmer
+2001,2021,American basketball player
+2001,2021,American basketball player (born 2001)
+2001,2021,American soccer player
+2001,2021,American basketball player
+2001,2021,American basketball player
+2001,2021,American singer
+2001,2021,Swedish golfer
+2001,2021,American actor (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,Guamanian soccer player
+2001,2021,Japanese basketball player
+2001,2021,South African Olympic Sprinter
+2001,2021,Kenyan athlete
+2001,2021,Nigerian sprinter
+2001,2021,Chinese footballer
+2001,2021,American swimmer (born 2001)
+2001,2021,American swimmer (born 2001)
+2001,2021,American professional wrestler and cheerleader (born 2001)
+2001,2021,American sports shooter (born 2001)
+2001,2021,Mexican footballer (born 2001)
+2001,2021,American swimmer, and magician (born 2001)
+2001,2021,American swimmer (born 2001)
+2001,2021,American swimmer (born 2001)
+2001,2021,Colombian footballer (born 2001)
+2001,2021,American athlete (born 2001)
+2001,2021,American swimmer (born 2001)
+2001,2021,Nigerian footballer (born 2001)
+2001,2021,American sprinter
+2001,2021,Ecuadorian footballer (born 2001)
+2001,2021,American sports shooter (born 2001)
+2001,2021,American gymnast
+2001,2021,South African rugby union player
+2001,2021,American middle-distance runner
+2001,2021,Serbian basketball player
+2001,2021,American softball player
+2001,2021,American social media personality (born 2001)
+2001,2021,American basketball player
+2001,2021,Canadian basketball player
+2001,2021,Trinidadian footballer (born 2001)
+2001,2021,New Zealand footballer
+2001,2021,American football player (born 2001)
+2001,2021,American basketball player
+2001,2021,United States Virgin Islander archer
+2001,2021,American sport shooter
+2001,2021,Russian basketball player
+2001,2021,Irish swimmer (born 2001)
+2001,2021,Liberian-American sprinter
+2001,2021,Russian swimmer (born 2001)
+2001,2021,Israeli swimmer
+2001,2021,Venezuelan swimmer (born 2001)
+2001,2021,Jordanian swimmer (born 2001)
+2001,2021,Bahamian swimmer
+2001,2021,American sports shooter
+2001,2021,Haitian swimmer
+2001,2021,Guamanian swimmer
+2001,2021,American tennis player
+2001,2021,American tennis player
+2001,2021,Panamanian swimmer (born 2001)
+2001,2021,Moroccan Olympic 1500 meters runner
+2001,2021,American swimmer
+2001,2021,American rapper
+2001,2021,Canadian tennis player
+2001,2021,American soccer player
+2001,2021,American basketball player (born 2001)
+2001,2021,Panamanian baseball player (born 2001)
+2001,2021,American tennis player (born 2001)
+2001,2021,American tennis player (born 2001)
+2001,2021,American basketball player
+2001,2021,Australian racing driver
+2001,2021,Mexican fencer
+2001,2021,American baseball player (born 2001)
+2001,2021,Sierra Leonean swimmer
+2001,2021,Canadian soccer player
+2000,2021,American baseball player (born 2000)
+2001,2021,Italian golfer
+2001,2021,Italian golfer
+2001,2021,American actor (born 2001)
+2001,2021,Liberian professional footballer (born 2001)
+2001,2021,Surinamese footballer
+2001,2021,American wrestler (born 2001)
+2001,2021,Canadian soccer player
+2001,2021,American Paralympic swimmer
+2001,2021,American basketball player
+2001,2021,American basketball player (born 2001)
+2001,2021,American basketball player
+2001,2021,American professional golfer
+2001,2021,American baseball player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,American Paralympic swimmer
+2001,2021,American field hockey player
+2001,2021,American para table tennis player
+2001,2021,Japanese footballer
+2001,2021,Scottish cricketer
+2001,2021,American football player (born 2001)
+2001,2021,American baseball player (born 2001)
+2001,2021,American Paralympic athlete
+2001,2021,Mexican artistic gymnast
+2001,2021,American Paralympic swimmer (born 2001)
+2001,2021,Ecuadorian footballer (born 2001)
+2001,2021,American Paralympic swimmer
+2001,2021,American YouTube personality (born 2001)
+2001,2021,American-South Sudanese basketball player (born 2001)
+2001,2021,American wheelchair basketball player
+2001,2021,American wheelchair basketball player
+2001,2021,Equatoguinean footballer (born 2001)
+2001,2021,American soccer player
+2001,2021,American professional wrestler (born 2001)
+2001,2021,American racing driver (born 2001)
+2001,2021,American ice hockey player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,American basketball player
+2001,2021,American football player (born 2001)
+2002,2021,American football player (born 2002)
+2001,2021,American baseball player (born 2001)
+2001,2021,Baseball player
+2001,2021,American football player (born 2001)
+2001,2021,American basketball player
+2001,2021,American singer-songwriter
+2001,2021,American football quarterback (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,American sitting volleyball player (born 2001)
+2001,2021,American football (NFL) player (born 2001)
+2001,2021,American rapper
+2001,2021,American football player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,American rapper (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,Guamanian
+2001,2021,American football player (born 2001)
+2001,2021,Baseball player
+2001,2021,Baseball player
+2001,2021,American baseball player
+2001,2021,American baseball player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,Baseball player
+2001,2021,Canadian ice hockey player
+2001,2021,Baseball player
+2001,2021,Guyanese footballer (born 2001)
+2001,2021,New Zealand association football player
+2001,2021,American racing driver
+2001,2021,Nicaraguan basketball player
+2001,2021,American basketball player (born 2001)
+2002,2021,American golfer
+2001,2021,Ecuadorian footballer (born 2001)
+2001,2021,Nigerian-American model
+2001,2021,Zambian footballer
+2001,2021,Venezuelan baseball player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,Dominican baseball player (born 2001)
+2002,2021,American baseball player
+2001,2021,American karateka (born 2001)
+2001,2021,Central African basketball player (born 2001)
+2001,2021,American basketball player
+2001,2021,Luxembourgian tennis player (born 2001)
+2001,2021,American racing driver
+2001,2021,American racing driver
+2001,2021,American basketball player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,American actress
+2001,2021,American professional wrestler (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,American football player (born 2001)
+2001,2021,Baseball player
+2001,2021,American football player (born 2001)
+2001,2021,American artistic gymnast
+2001,2021,Baseball player
+2001,2021,American actress
+2001,2021,American swimmer
+2001,2021,Austrian amateur golfer
+2001,2021,American basketball player
+2001,2021,New Zealand racing driver
+2001,2021,American football player (born 2001)
+2001,2021,American basketball player (born 2001)
+2001,2021,American racing driver
+2001,2021,Sierra Leonean footballer
+2001,2022,American ice dancer
+2001,2022,Australian tennis player (born 2001)
+2001,2022,American baseball player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American soccer player
+2001,2022,American basketball player
+2001,2022,American soccer player
+2001,2022,American soccer player (born 2001)
+2001,2022,Professional footballer (born 2001)
+2001,2022,American ice hockey player (born 2001)
+2001,2022,American ice hockey player (born 2001)
+2002,2022,American football player (born 2001)
+2001,2022,Filipino footballer
+2001,2022,American professional stock car racing driver
+2001,2022,American rapper
+2001,2022,American football player (born 2001)
+2001,2022,Irish rugby union player
+2001,2022,Canadian ice hockey player (born 2001)
+2001,2022,American professional wrestler
+2001,2022,Russian ice hockey player
+2001,2022,Liberian footballer
+2001,2022,American professional wrestler (born 2001)
+2001,2022,American short track speed skater
+2001,2022,Baseball player
+2001,2022,American tennis player
+2001,2022,American short track speed skater
+2001,2022,American cross-country skier
+2001,2022,Serbian footballer (born 2001)
+2001,2022,American basketball player
+2001,2022,Nigerian basketball player
+2001,2022,Canadian soccer player (born 2001)
+2001,2022,Brazilian footballer
+2001,2022,South Korean professional Overwatch support player (2001–2021)
+2001,2022,American football player (born 2001)
+2001,2022,Baseball player
+2001,2022,Baseball player
+2001,2022,Guatemalan footballer (born 2001)
+2001,2022,Panamanian footballer (born 2001)
+2001,2022,Korean-American model and beauty queen
+2001,2022,American baseball player
+2001,2022,American singer-songwriter (born 2001)
+2001,2022,Baseball player
+2001,2022,American baseball player (born 2001)
+2001,2022,Baseball player
+2001,2022,American football player (born 2001)
+2001,2022,Bermudian footballer
+2001,2022,Baseball player
+2001,2022,Baseball player
+2001,2022,American wheelchair basketball player
+2001,2022,American basketball player (born 2001)
+2001,2022,American baseball player (born 2001)
+2001,2022,Liberian footballer
+2001,2022,American baseball player (born 2001)
+2001,2022,Baseball player
+2001,2022,British basketball player (born 2001)
+2001,2022,Japanese footballer
+2001,2022,American gymnast
+2001,2022,American ice hockey player
+2001,2022,Croatian basketball player (born 2001)
+2001,2022,American social media personality and former basketball player (born 2001)
+2001,2022,American baseball player (born 2001)
+2001,2022,Cape Verdean association football player
+2001,2022,Somali footballer (born 2001)
+2001,2022,Japanese baseball player
+2002,2022,American actress
+2001,2022,English footballer (born 2001)
+2001,2022,Bermudian footballer (born 2001)
+2001,2022,American Soccer Player
+2001,2022,American soccer player
+2001,2022,American ice hockey player
+2001,2022,Mexican-American footballer (born 2001)
+2001,2022,Professional Canadian soccer player (born 2001)
+2001,2022,American soccer player
+2001,2022,American racing driver
+2001,2022,Baseball player
+2001,2022,American soccer player
+2001,2022,Haitian footballer (born 2001)
+2001,2022,South Sudanese footballer
+2001,2022,Asian-American football player (born 2001)
+2001,2022,American ice hockey player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American basketball player (born 2001)
+2001,2022,American basketball player
+2001,2022,American luger (born 2001)
+2001,2022,American snowboarder
+2001,2022,American baseball player (born 2001)
+2001,2022,New Zealand and Swiss professional tennis player (born 2001)
+2001,2022,Czech ice hockey player
+2001,2022,Baseball player
+2001,2022,Baseball player
+2001,2022,American baseball player (born 2001)
+2001,2022,American swimmer (born 2001)
+2001,2022,American sprinter
+2001,2022,American football player (born 2001)
+2001,2022,Rugby player
+2001,2022,American professional wrestler (born 2001)
+2001,2022,Spanish professional golfer
+2001,2022,Baseball player
+2001,2022,Brazilian volleyball player
+2001,2022,American baseball player
+2001,2022,Baseball player
+2001,2022,Danish footballer (born 2001)
+2001,2022,American softball player (born 2001)
+2001,2022,American racing driver
+2001,2022,Swedish golfer
+2001,2022,American soccer player
+2001,2022,Baseball player
+2001,2022,American baseball player (born 2001)
+2001,2022,Brazilian footballer
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,Colombian footballer (born 2001)
+2001,2022,American baseball player (born 2001)
+2001,2022,American athlete (born 2001)
+2001,2022,American athlete
+2001,2022,Slovakian footballer
+2001,2022,Jamaican footballer (born 2001)
+2001,2022,American baseball player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,Canadian esports player and streamer
+2001,2022,Saint Lucian sprinter (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,Colombian footballer (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American basketball player
+2001,2022,American football player (born 2002)
+2001,2022,American football player (born 2001)
+2001,2022,American Jewish fashion model and science student
+2001,2022,British swimmer (born 2001)
+2001,2022,Canadian wrestler (born 2001)
+2001,2022,Tongan-American soccer player
+2001,2022,Mexican footballer (born 2001)
+2001,2022,American football player (born 2001)
+1998,2022,South African field hockey player
+2001,2022,American soccer player
+2001,2022,American football player (born 2001)
+2001,2022,Canadian ice hockey player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American social media personality (born 2001)
+2001,2022,American ice hockey player
+2001,2022,American tennis player
+2001,2022,Canadian professional tennis player
+2001,2022,Professional footballer
+2001,2022,American golfer
+2002,2022,American football player (born 2002)
+2001,2022,American football player (born 2001)
+2001,2022,American football quarterback (born 2001)
+2001,2022,South African soccer player
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American baseball player (born 2000)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,Costa Rican footballer (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,Ethiopian social justice activist and Education Champion
+2001,2022,American soccer player
+2001,2022,American football player (born 2001)
+2000,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,Korean-American singer (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American tennis player
+2001,2022,American figure skater
+2001,2022,American rapper (born 2001)
+2001,2022,American Twitch streamer (born 2001)
+2001,2022,American basketball player
+2001,2022,American football player (born 2001)
+2001,2022,Iranian protester sexually assaulted and detained
+2001,2022,American basketball player
+2001,2022,American football player (born 2001)
+2017,2022,American football player (born 2001)
+2001,2022,Algerian footballer (born 2001)
+2001,2022,American rapper (born 2001)
+2001,2022,American football quarterback (born 2001)
+2001,2022,Dominican baseball player (born 2001)
+2001,2022,American musician and TikTok personality (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American football player (born 2001)
+2001,2022,American basketball player
+2001,2022,American politician
+2001,2022,American football cornerback (born 2001)
+2001,2022,Nigerian-American football player (born 2001)
+2001,2022,Colombian professional golfer
+2001,2022,British long-distance runner (born 2001)
+2001,2022,American musician (born 2001)
+2001,2022,German-Canadian ice hockey player
+2001,2022,Canadian soccer player
+2001,2022,Australian racing driver
+2001,2022,Brazilian streamer
+2001,2023,American basketball player
+2000,2023,2023 punishment of an Iranian protestor
+2001,2023,Brazilian footballer (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,Taiwanese baseball player (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,Swedish footballer
+2001,2023,American basketball player
+2001,2023,American artistic gymnast
+2001,2023,Musical artist
+2001,2023,Ghanaian footballer
+2001,2023,American racing driver
+2001,2023,American football player (born 2001)
+2001,2023,French tennis player
+2001,2023,Somali footballer (born 2001)
+2001,2023,Baseball player
+2001,2023,Ghanaian footballer (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,American basketball player
+2001,2023,Baseball player
+2001,2023,Australian track cyclist
+2001,2023,French football player
+2001,2023,Ugandan footballer (born 2001)
+2001,2023,American baseball player (born 2001)
+2001,2023,Dutch footballer (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,Nicaraguan baseball player (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,American wrestler (born 2001)
+2002,2023,Canadian ice hockey player
+2001,2023,American political commentator (born 2001)
+2001,2023,Australian basketball player
+2001,2023,American soccer player (born 2001)
+2001,2023,Footballer (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,American ice hockey player
+2001,2023,Colombian footballer
+2001,2023,American basketball player (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,Moroccan tennis player
+1999,2023,American football player (born 2001)
+2001,2023,American baseball player (born 2001)
+2001,2023,American ice hockey player
+2001,2023,American airman and alleged leaker (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American soccer player (born 2001)
+2002,2023,Italian footballer (born 2001)
+2001,2023,Chinese footballer (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,American college baseball outfielder
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American ice hockey player
+2001,2023,Canadian ice hockey player (born 2001)
+2001,2023,American social media personality (born 2001)
+2001,2023,American baseball player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American ice hockey player
+2001,2023,American football player (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,American racing driver
+2001,2023,Canadian soccer player
+2002,2023,Baseball player
+2001,2023,American soccer player (born 2001)
+2001,2023,American basketball player
+2001,2023,American taekwondo competitive fighter
+2001,2023,Tanzanian basketball player
+2001,2023,American soccer player
+2001,2023,American athlete
+2001,2023,American actress (born 2001)
+2001,2023,Scottish tennis player (born 2001)
+2001,2023,British tennis player
+2001,2023,American actor
+2001,2023,American soccer player
+2001,2023,American soccer player
+2001,2023,American tennis player (born 2001)
+2001,2023,Baseball player
+2001,2023,Cuban baseball player (born 2001)
+2001,2023,Nigerian footballer (born 2001)
+2001,2023,American basketball player
+2001,2023,American athlete (born 2001)
+2001,2023,Jamaican athlete
+2001,2023,Musical artist
+2001,2023,American baseball player (born 2001)
+2001,2023,Brazilian basketball player (born 2001)
+2001,2023,South African amateur golfer
+2001,2023,American politician from North Dakota
+2001,2023,Malaysian professional golfer
+2001,2023,American journalist and influencer (born 2001)
+2001,2023,Canadian rugby union player
+2001,2023,Guatemalan footballer (born 2001)
+2001,2023,Canadian gridiron football player (born 2001)
+2001,2023,Turkish singer-songwriter (born 2001)
+2001,2023,American tennis player
+2001,2023,American football player (born 2001)
+2001,2023,American actor
+2001,2023,Australian runner
+2001,2023,Californian rapper (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American athlete
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American soccer player
+2001,2023,Jamaican sprinter (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,American soccer player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,Mexican footballer
+2001,2023,American football player (born 2001)
+2001,2023,American football tight end (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,Filipino footballer
+2001,2023,American tennis player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player
+2001,2023,American football player (born 2001)
+2001,2023,American basketball player
+2001,2023,American motorcycle racer
+2001,2023,Italian professional golfer
+2001,2023,Indian basketball player (born 2001)
+2001,2023,German footballer (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,Dutch chess grandmaster (born 2001)
+2001,2023,American ice hockey player
+2001,2023,Killing of German-Israeli tattoo artist
+2001,2023,American football player (born 2001)
+2001,2023,Thai tennis player
+2001,2023,American football player (born 2001)
+2001,2023,Colombian-American artistic gymnast
+2001,2023,American football player (born 2001)
+2001,2023,English amateur golfer
+2001,2023,Canadian ice hockey player
+2001,2023,Palestinian journalist (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,Canadian soccer player
+2001,2023,American football player and coach (born 2001)
+2001,2023,American basketball player (born 2001)
+2001,2023,American tennis player (born 2001)
+2001,2023,Canadian tennis player (born 2001)
+2001,2023,American professional soccer player (born 2001)
+2001,2023,German basketball player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,Canadian tennis player
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American professional soccer player
+2001,2023,American ice hockey player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,Norwegian pole vaulter (born 2001)
+2001,2023,American student, subject of a 2019 manhunt
+2001,2023,American soccer player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American football player (born 2001)
+2001,2023,American curler (born 2001)
+2001,2024,Ethiopian long-distance runner (born 2001)
+2001,2024,American soccer player (born 2001)
+2001,2024,American field hockey player
+2001,2024,Armenian chess grandmaster (born 2001)
+2001,2024,American soccer player
+2001,2024,American singer (born 2001)
+2001,2024,American soccer player
+2001,2024,Miss America 2024
+2001,2024,Dominican basketball player
+2001,2024,American football player (born 2001)
+2001,2024,Jamaican footballer (born 2001)
+2001,2024,Finnish basketball player
+2001,2024,American football player (born 2001)
+2001,2024,American soccer player (born 2001)
+2001,2024,American basketball player
+2001,2024,Australian soccer player
+2001,2024,Ugandan footballer (born 2004)
+2001,2024,American basketball player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American soccer player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American luger (born 2001)
+2001,2024,American singer and songwriter
+2001,2024,Costa Rican association football player
+2001,2024,American soccer player (born 2002)
+2001,2024,American soccer player
+2001,2024,American basketball player
+2001,2024,American college basketball player (born 2001)
+2001,2024,Canadian ice hockey goaltender (born 2001)
+2001,2024,Swedish basketball player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,Indian chess grandmaster (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American soccer player (born 2001)
+2001,2024,Finnish footballer (born 2001)
+2001,2024,Senegalese footballer (born 2001)
+2001,2024,American professional wrestler (born 2000)
+2001,2024,American soccer player
+2001,2024,American Twitch streamer and YouTuber (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,New Zealand rugby union player
+2001,2024,American athlete (born 2001)
+2001,2024,Spanish footballer
+2001,2024,South African-German fashion model and social media personality (born 2001)
+2001,2024,Canadian steeplechaser (born 2001)
+2001,2024,American athlete
+2001,2024,American soccer player
+2001,2024,American rapper (born 2001)
+2001,2024,American soccer player (born 2001)
+2001,2024,American basketball player
+2001,2024,English rugby union player (born 2001)
+2001,2024,American actress
+2001,2024,American soccer player (born 2001)
+2001,2024,American tennis player
+2001,2024,American soccer player
+2001,2024,American racing driver
+2001,2024,Italian footballer (born 2001)
+2001,2024,American basketball player (born 2001)
+2001,2024,American wrestler (born 2001)
+2001,2024,American basketball player
+2001,2024,American soccer player
+2001,2024,American ice hockey player (born 2001)
+2001,2024,Brazilian footballer
+2001,2024,American soccer player
+2001,2024,American soccer player (born 2001)
+2001,2024,Angolan basketball player
+2001,2024,American soccer player
+2001,2024,American basketball player (born 2001)
+2001,2024,Japanese footballer
+2001,2024,French footballer
+2001,2024,American football player (born 2001)
+2001,2024,Canadian ice hockey player (born 2005)
+2001,2024,Northern Mariana Islands athlete
+2001,2024,Vietnamese-American professional basketball player (born 2001)
+2001,2024,American ice hockey player (born 2001)
+2001,2024,American ice hockey player (born 2001)
+2001,2024,American plus-size fashion model (born 2001)
+2001,2024,Spanish basketball player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,Liberian footballer
+2001,2024,American basketball player (born 2001)
+2001,2024,American soccer player
+2001,2024,English rugby union player
+2001,2024,American soccer player (born 2003)
+2001,2024,American football player (born 2001)
+2002,2024,American volleyball player (born 2001)
+2001,2024,Musical artist
+2001,2024,American lacrosse player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,Mexican footballer (born 2001)
+2001,2024,American soccer player (born 2001)
+2001,2024,American soccer player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American athlete
+2001,2024,American basketball player (born 2001)
+2001,2024,American professional golfer
+2001,2024,French athlete (born 2001)
+2001,2024,Ghanaian athlete (born 2001)
+2001,2024,French athlete (born 2001)
+2001,2024,Filipino actress and model
+2001,2024,American baseball player (born 2001)
+2001,2024,American athlete (born 2001)
+2001,2024,Dominican footballer
+2001,2024,Canadian soccer player (born 2001)
+2001,2024,Canadian soccer player (born 2001)
+2001,2024,American basketball player
+2001,2024,Anerican athlete (born 2001)
+2001,2024,Canadian video game streamer
+2001,2024,American athlete (born 2001)
+2001,2024,American paralympic swimmer
+2001,2024,American sailor
+2001,2024,German footballer (born 2001)
+2001,2024,Ghanaian footballer (born 2001)
+2001,2024,American professional BMX racer
+2001,2024,American professional BMX racer
+2001,2024,German basketball player
+2001,2024,Colombian footballer (born 2001)
+2001,2024,Finnish basketball player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,American football player (born 2001)
+2001,2024,Canadian-American football player (born 2001)
+2001,2024,Finnish basketball player, born 2001
+2001,2024,No occupation found
+2001,2024,American athlete (born 2001)
+2001,2024,Nigerian footballer (born 2001)
+2001,2024,American soccer player (born 2001)
+2002,2004,English footballer (born 2002)
+2002,2005,American teen actor (born 2002)
+2002,2007,American boy diagnosed with cancer (2002–2005)
+2002,2009,New Zealand racing driver
+2002,2010,American singer
+2002,2010,American actor (born 2002)
+2002,2011,American actress
+2002,2011,2010 police shooting of a child in Detroit
+2002,2011,American child actress
+2002,2011,American actress (born 2002)
+2002,2011,American actor and rapper (born 2002)
+2002,2013,American actor
+2002,2013,American pop singer (born 2002)
+2002,2014,American actress (born 2002)
+2002,2014,American actor
+2002,2014,American actress and dancer (born 2002)
+2003,2014,American actress
+2002,2014,American professional golfer (born 2002)
+2002,2014,American actress (born 2002)
+2002,2014,2014 police killing of an African-American boy in Cleveland, Ohio
+2002,2014,No occupation found
+2002,2015,American actress
+2002,2015,American actor
+2002,2015,American journalist and political commentator
+2002,2015,American actress, singer and model
+2002,2015,Filipino actor, model, and singer
+2002,2015,American education activist
+2002,2016,American actress from Delaware (born 2002)
+2001,2016,American actor
+2002,2016,American child violinist (born 2002)
+2002,2016,Fictional character
+2002,2016,American singer and actress (born 2002)
+2002,2016,Philippines artistic gymnast
+2002,2016,American artistic gymnast
+2002,2016,American actress (born 2002)
+2002,2016,American actress (born 2002)
+2002,2016,American singer (born 2002)
+2002,2015,American social media personality (born 2002)
+2002,2016,American actress (born 2002)
+2002,2016,American actress (born 2002)
+2002,2016,British actor and model (born 2002)
+2002,2016,Canadian actor and musician (born 2002)
+2002,2016,American actress (born 2002)
+2002,2016,American actor
+2002,2016,Brazilian singer, TV host and actress
+2002,2016,American actress (born 2002)
+2002,2017,American singer-songwriter
+2002,2017,American actress and singer
+2002,2017,Romanian-American soprano singer
+2002,2017,American singer (born 2002)
+2002,2017,American tennis player (born 2002)
+2002,2017,American Actor
+2002,2017,American physicist and child prodigy
+2002,2017,American dancer (born 2002)
+2002,2017,American swimmer
+2002,2017,American soccer player
+2002,2017,American artistic gymnast
+2002,2017,Cuban-American social media personality and singer (born 2002)
+2002,2017,Mexican footballer (born 2002)
+2002,2017,American actor (born 2002)
+2002,2018,American soccer player
+2002,2018,American musician (born 2002)
+2002,2018,American squash player (born 2002)
+2002,2018,2018 mass shooting in Parkland, Florida, US
+2002,2018,American actor and pianist
+2002,2018,American soccer player (born 2002)
+2002,2018,American soccer player (born 2000)
+2002,2018,American soccer player
+2002,2018,Venezuelan baseball player (born 2002)
+2002,2018,American artistic gymnast
+2002,2018,Russian artistic gymnast
+2002,2018,American soccer player (born 2002)
+2002,2018,American long-distance runner
+2002,2018,Australian singer, actress, model, and Internet personality (born 2002)
+2002,2018,American rapper and singer (born 2002)
+2002,2018,American soccer player
+2002,2018,American social media personality (born 2002)
+2002,2018,Finnish footballer (born 2002)
+2002,2018,British diver (born 2002)
+2002,2018,American pair skater (born 2002)
+2002,2018,Egyptian squash player
+2002,2018,American soccer player
+2002,2018,American soccer player
+2002,2018,American artistic gymnast (born 2002)
+2002,2018,American figure skater (born 2002)
+2002,2018,American figure skater
+2002,2018,American racing driver
+2002,2018,American activist
+2002,2018,American soccer player
+2002,2018,American soccer player
+2002,2018,American basketball player (born 2002)
+2002,2018,Irish sprinter (born 2002)
+2002,2018,Canadian artistic gymnast
+2002,2018,American dancer and actress (born 2002)
+2002,2018,New Zealand motor racing driver (born 2002)
+2002,2018,American professional surfer
+2002,2018,Ghanaian footballer
+2002,2018,American-born Jamaican sprinter (born 2002)
+2002,2018,American singer (born 2002)
+2002,2018,American actor and magician
+2002,2019,Israeli pair skater
+2002,2019,Belarusian chess player
+2002,2019,Thai tennis player (born 2002)
+2002,2019,Portuguese tennis player (born 2002)
+2002,2019,American middle-distance runner (born 2002)
+2002,2019,Jamaican footballer (born 2002)
+2002,2019,American actress
+2002,2019,American soccer player
+2002,2019,American racing driver (born 2002)
+2002,2019,American soccer player
+2002,2019,American cyclist
+2002,2019,American professional golfer (born 2002)
+2002,2019,American association football player
+2002,2019,American skateboarder
+2002,2019,American chess player
+2002,2019,American soccer player
+2002,2019,American professional soccer player
+2002,2019,Mexican footballer (born 2002)
+2002,2019,American soccer player
+2002,2019,Argentine professional footballer
+2002,2019,Saint Kitts and Nevis footballer
+2002,2019,Swedish ice hockey player (born 2002)
+2002,2019,American soccer player
+2002,2019,American actor (born 2002)
+2003,2019,American writer, blogger, activist, and actor
+2002,2019,Finnish ice hockey player
+2002,2019,American rapper (born 2002)
+2002,2019,American soccer player
+2002,2019,American actress
+2002,2019,American singer and rapper
+2002,2019,Argentine footballer
+2002,2019,Filipino dancer (born 2002)
+2002,2019,American taekwondo athlete
+2002,2019,American racing driver
+2002,2019,Colombian footballer (born 2002)
+2002,2019,Uruguayan footballer (born 2002)
+2002,2019,American artistic gymnast
+2002,2019,American soccer player
+2002,2019,American sprinter (born 2002)
+2002,2019,American soccer player
+2002,2019,Chinese figure skater (born 2002)
+2002,2019,Malian basketball player
+2002,2019,American rapper from New York (born 2002)
+2002,2019,Panamanian footballer (born 2002)
+2002,2019,American tennis player
+2002,2019,American soccer player
+2002,2019,American soccer player
+2002,2019,Brazilian footballer
+2002,2019,Russian swimmer
+2002,2019,American soccer player
+2002,2019,American artistic gymnast
+2002,2019,American soccer player (born 2002)
+2002,2019,American soccer player
+2002,2019,Ecuadorian tennis player (born 2002)
+2002,2019,Congolese basketball player (born 2002)
+2002,2019,American tennis player (born 2002)
+2002,2019,American soccer player
+2002,2019,American soccer player
+2002,2019,American soccer player
+2002,2019,American soccer player
+2002,2019,American basketball player
+2002,2019,American tennis player (born 2002)
+2002,2019,American canoeist
+2002,2019,American soccer player
+2002,2019,American soccer player
+2002,2019,American soccer player
+2001,2019,Chinese singer and songwriter
+2002,2019,American soccer player
+2002,2019,American soccer player
+2002,2019,American singer-songwriter
+2002,2019,American soccer player
+2002,2019,American basketball player (born 2002)
+2002,2019,American soccer player
+2002,2019,American actress
+2002,2019,Professional footballer
+2002,2019,Professional footballer (born 2002)
+2002,2019,Mexican youth climate activist (born 2002)
+2002,2019,Nigerian track and field athlete
+2002,2019,American soccer player
+2002,2019,American soccer player
+1998,2019,American soccer player
+2002,2019,Professional soccer player (born 2002)
+2002,2019,Honduran footballer (born 2002)
+2002,2019,American soccer player
+2002,2019,American soccer player
+2002,2019,Canadian soccer player
+2002,2019,Puerto Rican footballer
+2002,2019,American soccer player
+2002,2019,Puerto Rican professional boxer
+2002,2019,Argentine footballer (born 2002)
+2002,2019,American swimmer (born 2002)
+2002,2019,American singer-songwriter, multi-instrumentalist and actress
+2002,2019,Canadian soccer player
+2002,2019,Canadian soccer player
+2002,2019,American–Haitian footballer (born 2002)
+2002,2019,Argentine footballer
+2002,2020,American racing driver
+2002,2020,American soccer player (born 2002)
+2002,2020,English footballer
+2002,2020,Venezuelan footballer (born 2002)
+2002,2020,American figure skater
+2002,2020,American basketball player
+2002,2020,American climate activist (born 2002)
+2002,2020,American–Trinidad and Tobago footballer
+2002,2020,Dominican footballer (born 2002)
+2002,2020,Trinidad and Tobago footballer
+2002,2020,American musician and YouTuber (born 2002)
+2002,2020,Canadian racing driver
+2002,2020,United States Virgin Islander footballer
+2002,2020,Latvian tennis player
+2002,2020,American soccer player
+2002,2020,American chess player
+2002,2020,American basketball player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,Lithuanian basketball player
+2002,2020,American basketball player (born 2002)
+2002,2020,Guyanese footballer
+2002,2020,Lithuanian basketball player (born 2002)
+2002,2020,New Zealand-American basketball player (born 2002)
+2002,2020,American football player (born 2002)
+2002,2020,American actor (born 2002)
+2002,2020,Puerto Rican footballer (born 2002)
+2002,2020,Colombian footballer (born 2002)
+2002,2020,American swimmer (born 2002)
+2002,2020,Irish-American canoeist (born 2002)
+2002,2020,American baseball player
+2002,2020,American basketball player (born 2002)
+2002,2020,American basketball player (born 2002)
+2002,2020,American basketball player (born 2002)
+2002,2020,Dutch racing driver
+2002,2020,College basketball player
+2002,2020,Puerto Rican footballer (born 2002)
+2002,2020,American Paralympic athlete
+2002,2020,American basketball player (born 2002)
+2002,2020,Guinean basketball player (born 2002)
+2002,2020,American baseball player (born 2002)
+2002,2020,Swedish artistic gymnast
+2002,2020,American baseball player (born 2002)
+2002,2020,American soccer player
+2002,2020,American baseball player
+2002,2020,American baseball player (born 2002)
+2002,2020,Baseball player
+2002,2020,Danish footballer (born 2002)
+2002,2020,American Paralympic swimmer
+2002,2020,Italian basketball player
+2002,2020,American Internet celebrity (born 2002)
+2002,2020,Japanese basketball player
+2002,2020,Montserratian footballer (born 2002)
+2002,2020,Swedish ice hockey player
+2002,2020,American basketball player (born 2002)
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,Trinidadian footballer
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,French basketball player (born 2002)
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player (born 2002)
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American professional soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,Brazilian footballer (born 2002)
+2002,2020,American soccer player
+2002,2020,Canadian social media personality
+2002,2020,American social media personality
+2002,2020,American soccer player
+2002,2020,Costa Rican footballer (born 2002)
+2002,2020,Cape Verde footballer
+2002,2020,Colombian footballer
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,American soccer player
+2002,2020,Canadian soccer player
+2002,2020,American soccer player
+2002,2020,Brazilian footballer (born 2002)
+2002,2020,English professional golfer
+2002,2020,Puerto Rican footballer
+2002,2020,Brazilian footballer
+2002,2020,American soccer player
+2002,2020,American basketball player (born 2002)
+2002,2020,American basketball player (born 2002)
+2002,2020,American soccer player (born 2002)
+2002,2020,American basketball player (born 2002)
+2002,2020,American basketball player (born 2002)
+2002,2020,Turkish swimmer (born 2002)
+2002,2020,Canadian ice hockey player (born 2002)
+2002,2020,American ice hockey player (born 2002)
+2002,2020,Canadian actress (born 2002)
+2002,2020,American soccer
+2002,2020,American football player (born 2002)
+2002,2020,Russian ice hockey player (born 2002)
+2002,2020,Canadian ice hockey player (born 2002)
+2002,2020,American football player (born 2002)
+2002,2020,American soccer player
+2002,2020,Uruguayan junior tennis player (born 22-06-2002)
+2002,2020,Senegalese football player (born 2002)
+2002,2020,American football player (born 2002)
+2002,2020,American tennis player
+2002,2020,American-Israeli pair skater
+2002,2020,Guamanian footballer
+2002,2020,Mexican footballer
+2002,2020,Venezuelan-born Spanish footballer (born 2002)
+2002,2020,American tennis player (born 2002)
+2002,2020,American tennis player (born 2002)
+2002,2020,American beauty pageant contestant
+2002,2020,Association footballer
+2002,2020,American soccer player
+2002,2020,French footballer
+2002,2020,Canadian ice hockey player (born 2002)
+2002,2020,Irish footballer
+2002,2020,American internet celebrity and businessperson
+2002,2020,American basketball player (born 2002)
+2002,2020,American ice hockey player
+2002,2020,American football player (born 2002)
+2002,2020,American ice dancer
+2002,2020,American football player (born 2002)
+2002,2020,American boxer
+2002,2020,American soccer player
+2002,2021,Croatian footballer
+2002,2021,American cyclist (born 2002)
+2002,2021,American ice hockey forward
+2002,2021,Canadian ice hockey player
+2002,2021,American actress (born 2002)
+2002,2021,American soccer player (born 2002)
+2002,2021,Canadian basketball player (born 2002)
+2002,2021,American football player (born 2002)
+2002,2021,Korean association football player
+2002,2021,Ugandan footballer
+2002,2021,American football player (born 2002)
+2002,2021,Puerto Rican activist
+2002,2021,Ecuadorian footballer (born 2002)
+2002,2021,Ivorian footballer
+2002,2021,Ivorian association football player
+2002,2021,Brazilian footballer (born 2002)
+2002,2021,American baseball player (born 2002)
+2002,2021,American baseball player (born 2002)
+2002,2021,Australian professional soccer
+2002,2021,Venezuelan footballer
+2002,2021,Japanese footballer
+2002,2021,American baseball player (born 2002)
+2002,2021,American baseball player
+2002,2021,Cypriot-American figure skater (born 2002)
+2002,2021,American baseball player (born 2002)
+2002,2021,American ice hockey player (born 2002)
+2002,2021,American basketball player
+2002,2021,U.S. Virgin Islands association footballer
+2002,2021,United States Virgin Islander soccer player
+2002,2021,Caymanian footballer
+2002,2021,U.S. Virgin Islands association footballer
+2002,2021,American baseball player (born 2002)
+2002,2021,American basketball player (born 2002)
+2002,2021,American racing driver
+2002,2021,Municipal legislator for Aguadilla and youngest elected individual in Puerto Rico
+2002,2021,Argentine footballer
+2002,2021,American baseball player (born 2002)
+2002,2021,Spanish artistic gymnast
+2002,2021,American actress and musician
+2002,2021,American basketball player (born 2002)
+2002,2021,Footballer
+2002,2021,American professional esports player
+2002,2021,Latvian tennis player
+2002,2021,American basketball player (born 2002)
+2002,2021,American artistic gymnast and social media personality (born 2002)
+2002,2021,Ugandan footballer (born 2002)
+2002,2021,American soccer player
+2002,2021,Ghanaian association football player
+2002,2021,Professional soccer player
+2002,2021,American baseball player
+2002,2021,American soccer player
+2002,2021,Venezuelan footballer (born 2002)
+2002,2021,Mexican footballer (born 2002)
+2002,2021,American soccer player
+2002,2021,Swedish chess player (born 2002)
+2002,2021,Colombian footballer (born 2002)
+2002,2021,Sierra Leonean association football player
+2002,2021,American basketball player (born 2002)
+2002,2021,American soccer player
+2002,2021,South Sudanese-American basketball player (born 2002)
+2002,2021,Spanish–Polish footballer
+2002,2021,American wrestler
+2002,2021,American soccer player
+2002,2021,Canadian basketball player (born 2002)
+2002,2021,American basketball player (born 2002)
+2002,2021,French-Moroccan footballer
+2002,2021,Colombian footballer
+2002,2021,American soccer player
+2002,2021,American artistic gymnast
+2002,2021,Croatian footballer (born 2002)
+2002,2021,Israeli swimmer (born 2002)
+2002,2021,Finnish ice hockey player
+2002,2021,Turkish swimmer (born 2002)
+2002,2021,Brazilian professional footballer (born 2002)
+2002,2021,Egyptian basketball player
+2002,2021,American basketball player (born 2002)
+2002,2021,American soccer player (born 2002)
+2002,2021,Mexican footballer
+2002,2021,American ice hockey player (born 2002)
+2002,2021,Samoa international rugby league footballer
+2002,2021,Australian soccer player (born 2002)
+2002,2021,Brazilian footballer
+2002,2021,American basketball player
+2002,2021,Belarusian ice hockey player (born 2002)
+2002,2021,American soccer player
+2002,2021,American basketball player (born 2002)
+2002,2021,Irish association football player
+2002,2021,Canadian basketball player (born 2002)
+2002,2021,Senegalese football player
+2002,2021,American basketball player
+2002,2021,American basketball player
+2002,2021,American basketball player
+2002,2021,American–Jamaican footballer (born 2002)
+2002,2021,American swimmer
+2002,2021,Moroccan footballer
+2002,2021,Moroccan footballer
+2002,2021,Brazilian footballer
+2002,2021,American athlete
+2002,2021,American actor (born 2002)
+2002,2021,American baseball player
+2002,2021,American racing cyclist (born 2002)
+2002,2021,American basketball player
+2002,2021,American baseball player (born 2002)
+2002,2021,American basketball player (born 2002)
+2002,2021,American basketball player (born 2002)
+2002,2021,American basketball player
+2002,2021,New Zealand basketball player
+2002,2021,American baseball player
+2002,2021,Antiguan athlete
+2002,2021,American basketball player (born 2002)
+2002,2021,American soccer player
+2002,2021,List of baseball players
+2002,2021,American singer-songwriter (born 2002)
+2002,2021,British tennis player (born 2002)
+2002,2021,Canadian basketball player
+2002,2021,American baseball player
+2002,2021,Australian basketball player
+2002,2021,American BMX cyclist
+2002,2021,Dominican footballer (born 2002)
+2002,2021,Canadian basketball player
+2002,2021,American baseball player (born 2002)
+2002,2021,Baseball player
+2002,2021,American baseball player
+2002,2021,Baseball player
+2002,2021,American swimmer (born 2002)
+2002,2021,American basketball player
+2002,2021,Dutch space tourist
+2002,2021,Malian basketball player
+2002,2021,American rhythmic gymnast
+2002,2021,American chess player
+2002,2021,American archer (born 2002)
+2002,2021,Canadian ice hockey player (born 2002)
+2002,2021,American ice hockey player (born 2002)
+2002,2021,American ice hockey player (born 2002)
+2002,2021,French swimmer
+2002,2021,American ice hockey player (born 2002)
+2002,2021,American soccer player
+2002,2021,Finnish-American ice hockey player
+2002,2021,Barbadian swimmer (born 2002)
+2002,2021,Virgin Islander swimmer
+2002,2021,Jamaican footballer
+2002,2021,Israeli swimmer (born 2002)
+2002,2021,Mexican footballer (born 2002)
+2002,2021,Israeli swimmer (born 2002)
+2002,2021,Australian professional basketball player
+2002,2021,Lebanese swimmer
+2002,2021,American racing driver (born 2002)
+2002,2021,Bahamian sprinter
+2002,2021,Egyptian swimmer
+2002,2021,American basketball player
+2002,2021,German footballer (born 2002)
+2002,2021,American actress
+2002,2021,Canadian baseball player (born 2002)
+2002,2021,Swedish footballer
+2002,2021,Lithuanian athletics competitor
+2002,2021,Jamaican sprinter
+2002,2021,Tunisian footballer (born 2002)
+2002,2021,American ice hockey player
+2002,2021,American ice hockey player
+2002,2021,American basketball player
+2002,2021,British-Italian actress
+2002,2021,American basketball player
+2002,2021,Brazilian footballer (born 2002)
+2002,2021,American racing driver (born 2002)
+2002,2021,Polish footballer
+2002,2021,Brazilian footballer
+2002,2021,American model and activist
+2002,2021,American football player (born 2002)
+2002,2021,New Zealand cyclist
+2002,2021,American Christian musician
+2002,2021,American distance runner
+2002,2021,American football player (born 2002)
+2002,2021,American football player (born 2002)
+2002,2021,Spanish footballer (born 2002)
+2002,2021,American racing driver
+2003,2021,Guamanian footballer
+2002,2021,American Samoan footballer
+2002,2021,Hong Kong footballer
+2002,2021,American football player (born 2002)
+2002,2021,American basketball player
+2002,2021,American basketball player (born 2002)
+2002,2021,American racing driver
+2002,2021,American basketball player
+2002,2021,American football player (born 2002)
+2002,2021,American football player (born 2002)
+2002,2021,New Zealand association football player
+2002,2021,Puerto Rican footballer
+2002,2021,American basketball player
+2002,2021,American football player (born 2002)
+2002,2021,Colombian footballer (born 2002)
+2002,2021,Brazilian footballer
+2002,2021,Finnish footballer (born 2002)
+2002,2021,English footballer
+2002,2021,American basketball player (born 2002)
+2002,2021,American singer-songwriter
+2002,2021,American basketball player
+2002,2021,American football player (born 2002)
+2002,2021,American professional stock car racing driver
+2002,2021,American baseball player (born 2002)
+2002,2021,Mexican racing driver
+2002,2021,Swedish-Danish ice hockey goaltender
+2002,2021,Cameroonian footballer
+2002,2021,American swimmer
+2002,2021,American football player (born 2002)
+2002,2021,Icelandic footballer
+2002,2021,American motorcycle racer
+2002,2021,American cricketer
+2002,2021,American racing driver
+2002,2021,American racing driver
+2002,2021,American cricketer
+2002,2021,American racing driver (born 2002)
+2002,2021,American baseball player (born 2002)
+2002,2021,Brazilian footballer
+2002,2022,American racing driver
+2002,2022,American artistic gymnast
+2003,2022,American football player (born 2003)
+2002,2022,Bahamian sprinter
+2002,2022,American soccer player
+2002,2022,Zimbabwean American football player (born 2002)
+2002,2022,Canadian soccer player
+2002,2022,Filipino footballer
+2002,2022,Cayman Islands footballer
+2002,2022,American-Ecudorian skier (born 2002)
+2002,2022,Canadian American football quarterback (born 2002)
+2002,2022,American chess grandmaster (born 2002)
+2002,2022,American freestyle skier (born 2002)
+2002,2022,Brazilian freestyle skier
+2002,2022,Canadian ice hockey player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American ice hockey player (born 2002)
+2002,2022,American swimmer
+2002,2022,Canadian ice hockey player (born 2002)
+2002,2022,American swimmer
+2002,2022,American badminton player (born 2002)
+2002,2022,Venezuelan footballer (born 2002)
+2002,2022,French tennis player
+2002,2022,American basketball player
+2002,2022,American ice hockey player (born 2002)
+2002,2022,American alpine skier
+2002,2022,American ice hockey player (born 2002)
+2002,2022,American basketball player
+2002,2022,American soccer player
+2002,2022,Ecuadorian footballer (born 2002)
+2002,2022,American para cross-country skier
+2002,2022,Dominican baseball player (born 2002)
+2002,2022,American basketball player (born 2002)
+2002,2022,American soccer player
+2002,2022,American ice sledge hockey player
+2002,2022,American soccer player
+2002,2022,Armenian footballer
+2002,2022,American gymnast
+2002,2022,Haitian footballer (born 2002)
+2002,2022,American racing driver
+2002,2022,American racing driver
+2002,2022,American boxer (born 2002)
+2002,2022,American racing driver
+2002,2022,Puerto Rican basketball player
+2002,2022,New Zealand association footballer
+2002,2022,American racing driver
+2000,2022,Guyanese footballer (born 2002)
+2002,2022,American ice hockey player (born 2002)
+2002,2022,Nigerian footballer
+2002,2022,American musician
+2002,2022,American basketball player (born 2002)
+2002,2022,South Korean League of Legends player
+2002,2022,American soccer player
+2002,2022,Argentine footballer
+2002,2022,American football player (born 2002)
+2002,2022,Baseball player
+2002,2022,American basketball player
+2002,2022,American soccer player (born 2002)
+2002,2022,Canadian-American soccer player
+2002,2022,Canadian chess player (born 2002)
+2002,2022,American speed skater
+2002,2022,Musical artist
+2002,2022,Canadian tennis player (born 2002)
+2002,2022,American swimmer
+2002,2022,American basketball player (born 2002)
+2002,2022,American baseball player (born 2002)
+2002,2022,American baseball player (born 2002)
+2002,2022,American basketball player (born 2002)
+2002,2022,Jamaican-American basketball player (born 2002)
+2002,2022,American singer-songwriter (born 2002)
+2002,2022,Sierra Leonean Football Player
+2002,2022,American actress (born 2002)
+2002,2022,American boxer (born 2002)
+2002,2022,American baseball player (born 2002)
+2002,2022,American baseball player (born 2002)
+2002,2022,American tennis player (born 2002)
+2002,2022,American sprinter (born 2002)
+2002,2022,Ugandan sprinter
+2002,2022,Jamaican athlete (born 2002)
+2002,2022,American soccer player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 1999)
+2002,2022,American novelist and poet
+2002,2022,Baseball player
+2002,2022,American racing driver
+2002,2022,Spanish tennis player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,Nigerian athlete (born 2002)
+2002,2022,American soccer player
+2002,2022,Canadian ice hockey player
+2002,2022,Irish association footballer
+2002,2022,Dominican baseball player
+2002,2022,American soccer player (born 2002)
+2002,2022,Finnish ice hockey player
+2001,2022,Puerto Rican baseball player (born 2001)
+2002,2022,Colombian footballer (born 2002)
+2002,2022,American ice dancer
+2002,2022,American football player (born 2002)
+2002,2022,American ice hockey player
+2002,2022,American football player (born 2002)
+2002,2022,American actress (born 2002)
+2002,2022,American professional road cyclist
+2002,2022,English footballer
+2002,2022,American football player (born 2002)
+2002,2022,American actor
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American pianist
+2002,2022,American football quarterback (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American basketball player
+2002,2022,American rapper and singer
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,Australian long-distance runner (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American basketball player (born 2002)
+2002,2022,American rapper (born 2002)
+2002,2022,Ugandan-American basketball player
+2002,2022,Japanese baseball player
+2002,2022,American basketball player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American rapper (born 2002)
+2002,2022,American basketball player (born 2002)
+2002,2022,Cuban baseball player (born 2002)
+2002,2022,Dominican baseball player (born 2002)
+2002,2022,American pair skater
+2002,2022,American football player (born 2002)
+2002,2022,Mexican diver
+2002,2022,American actress (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,Miss America 2023
+2002,2022,American baseball player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,American football player (born 2002)
+2002,2022,Caymanian swimmer
+2002,2022,Ecuadorian footballer (born 2002)
+2002,2022,Senegalese footballer
+2002,2022,American basketball player
+2002,2022,Sierra Leonean footballer (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,Colombian footballer (born 2002)
+2002,2023,Ghanaian footballer
+2002,2023,American social media personality
+2002,2023,American chess grandmaster (born 2002)
+2002,2023,American ice hockey player
+2002,2023,American soccer player (born 2002)
+2002,2023,American soccer player
+2002,2023,American rally driver
+2002,2023,Ghanaian footballer
+2002,2023,American baseball player (born 2002)
+2002,2023,Nigerian footballer (born 2002)
+2002,2023,American tennis player (born 2002)
+2002,2023,American Sign Language performer (2002-)
+2002,2023,Palestinian-Chilean singer and songwriter
+2002,2023,Canadian soccer player
+2002,2023,American soccer player
+2002,2022,Swedish footballer (born 2002)
+2002,2023,American baseball player (born 2002)
+2002,2023,American actor
+2002,2023,Belgian-American basketball player (born 2002)
+2002,2023,Twitch streamer
+2002,2023,Nigerian footballer
+2002,2023,American rapper (born 2002)
+2002,2023,American soccer player
+2002,2023,American singer
+2002,2023,American baseball player (born 2002)
+2002,2023,American soccer player (born 2002)
+2002,2023,American baseball player (born 2002)
+2002,2023,American baseball player (born 2002)
+2002,2023,Baseball player
+2002,2023,Baseball player
+2002,2023,American soccer midfielder
+2002,2023,American basketball player
+2002,2023,American tennis player (born 2002)
+2002,2023,American ice hockey player (born 2002)
+2002,2023,American ice hockey player
+2002,2023,Canadian ice hockey player
+2002,2023,American football player
+2002,2023,American model (born 2002)
+2002,2023,American actress
+2002,2023,American politician
+2002,2023,American weightlifter (born 2002)
+2002,2023,American ice hockey player
+2002,2023,American baseball player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,Canadian basketball player (born 2002)
+2002,2023,American model
+2002,2023,New Zealand footballer (born 2002)
+2002,2023,American ice hockey player
+2002,2023,Musical artist
+2002,2023,American football player (born 2002)
+2002,2023,Filipino-American college basketball player
+2002,2023,Senegalese basketball player (born 2002)
+2002,2023,Baseball player
+2002,2023,American basketball player (born 2002)
+2002,2023,American softball player
+2002,2023,American soccer player
+2002,2023,British tennis player (born 2002)
+2002,2023,British tennis player (born 2002)
+2002,2023,American football player (born c. 2002)
+2002,2023,American ice hockey player
+2002,2023,American athlete (born 2002)
+2002,2023,British tennis player (born 2002)
+2002,2023,Dutch athlete (born 2002)
+2002,2023,American athlete (born 2002)
+2002,2023,Cypriot athlete
+2002,2023,Baseball player
+2002,2023,Baseball player
+2002,2023,Dutch footballer
+2002,2023,American ice hockey player
+2002,2023,American baseball player (born 2002)
+2002,2023,American baseball player (born 2002)
+2002,2023,Baseball player
+2002,2023,Baseball player
+2002,2023,American baseball pitcher
+2002,2023,American baseball player (born 2002)
+2002,2023,Baseball player
+2002,2023,Baseball player
+2002,2023,German association football player
+2002,2023,Australian racing driver
+2002,2023,French internet personality (2002-)
+2002,2023,New Zealand association footballer (born 2002)
+2002,2023,Haitian association football player
+2002,2023,American racing driver
+2002,2023,American baseball player (born 2002)
+2002,2023,American baseball player (born 2002)
+2002,2023,American swimmer
+2002,2023,American scholar and designer
+2002,2023,American football player (born 2002)
+2002,2023,American racing driver
+2002,2023,American racing driver
+2001,2023,American athlete
+2002,2023,Moldovan-American tennis player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,Australian baseball player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American gymnast
+2002,2023,American soccer player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2000,2023,American actor
+2002,2023,American football player (born 2002)
+2002,2023,Mexican surfer
+2002,2023,Canadian rower (born 2002)
+2003,2023,Canadian swimmer (born 2003)
+2002,2023,Canadian rower (born 2002)
+2002,2023,American soccer player
+2002,2023,American football player (born 2002)
+2002,2023,Footballer (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American actress (born 2002)
+2002,2023,American actor
+2002,2023,American football player (born 2002)
+2002,2023,American basketball player (born 2002)
+1994,2023,American runner
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American basketball player
+2002,2023,American football player (born 2002)
+2002,2023,American football player (born 2002)
+2002,2023,American sport shooter (born 2002)
+2002,2023,American soccer player (born 2002)
+2002,2023,Spanish footballer (born 2002)
+2002,2023,German footballer (born 2002)
+2002,2023,Turkish basketball player (2002)
+2002,2023,Brazilian footballer (born 2002)
+2003,2023,American singer and songwriter
+2002,2023,American curler (born 2002)
+2002,2024,Canadian soccer player
+2002,2024,American soccer player (born 2002)
+2002,2024,American football player (born 2002)
+2002,2024,American soccer player (born 2002)
+2002,2024,American professional wrestler
+2002,2024,American basketball player (born 2002)
+2002,2024,American football player (born 2002)
+2002,2024,Mexican footballer (born 2002)
+2002,2024,American figure skater (born 2002)
+2002,2024,American basketball player
+2002,2024,American racing driver (born 2002)
+2002,2024,American motocross racer
+2002,2024,Swedish hurdler (born 2002)
+2002,2024,German athlete (born 2002)
+2002,2024,American soccer player (born 2002)
+2002,2024,American model, actor
+2002,2024,American basketball player (born 2002)
+2002,2024,American basketball player (born 2002)
+2002,2024,American basketball player (born 2002)
+2002,2024,Ghanaian footballer (born 2002)
+2002,2024,English footballer
+2002,2024,American soccer player (born 2002)
+2002,2024,Chilean footballer (born 2002)
+2002,2024,American baseball player
+2002,2024,Jamaican footballer
+2002,2024,Japanese football player
+2002,2024,Russian ice hockey player
+2002,2024,American Magic: The Gathering player (born 2002)
+2002,2024,Canadian soccer player
+2002,2024,Australian-American professional basketball player
+2002,2024,American soccer player (born 2002)
+2002,2024,American high jump athlete
+2002,2024,Jamaican athlete
+2002,2024,American soccer player
+2002,2024,American ice hockey player (born 2002)
+2002,2024,American soccer player
+2002,2024,Ugandan-Swedish swimmer
+2002,2024,American drummer
+2002,2024,Danish footballer (born 2002)
+2002,2024,Baseball player
+2002,2024,American soccer player (born 2002)
+2002,2024,American baseball player (born 2002)
+2002,2024,Ice hockey player
+2002,2024,Rwandan basketball player (born 2002)
+2002,2024,Canadian middle-distance runner (born 2002)
+2002,2024,American racing driver
+2002,2024,American college basketball player
+2002,2024,Australian college basketball player
+2002,2024,American basketball player (born 2002)
+2002,2024,American basketball player (born 2002)
+2002,2024,American racing driver
+2002,2024,American soccer player
+2002,2024,Canadian basketball player (born 2002)
+2002,2024,American soccer player (born 2002)
+2002,2024,English footballer
+2002,2024,American football player (born 2002)
+2002,2024,American football player (born 2002)
+2002,2024,American professional surfer
+2002,2024,American boxer (born 2002)
+2002,2024,American baseball player (born 2002)
+2002,2024,American gymnast
+2002,2024,Filipino fencer (born 2002)
+2002,2024,American ice hockey player (born 2002)
+2002,2024,Italian footballer
+2002,2024,Czech ice hockey player (born 2002)
+2002,2024,Baseball player
+2002,2024,American racing driver
+2002,2024,American racing driver
+2002,2024,American soccer player (born 2002)
+2002,2024,American football player (born 2002)
+2002,2024,South African sprinter (born 2002)
+2002,2024,American Internet personality
+2002,2024,American football player (born 2002)
+2002,2024,British athlete (born 2002)
+2002,2024,American tennis player
+2002,2024,American baseball player (born 2002)
+2002,2024,Syrian artistic gymnast
+2002,2024,American soccer player
+2002,2024,American sprinter (born 2000)
+2002,2024,Bahamian athlete (born 2002)
+2002,2024,American actress and singer (born 2002)
+2002,2024,American canoeist (born 2002)
+2002,2024,American fencer (born 2002)
+2002,2024,American singer (born 2002)
+2002,2024,American football player (born 2002)
+2002,2024,American swimmer
+2002,2024,American field hockey player
+2002,2024,American volleyball player (born 2002)
+2002,2024,Turkish artistic gymnast
+2002,2024,American athlete (born 2002)
+2002,2024,German golfer
+2002,2024,Jamaican athlete
+2002,2024,Spanish athlete (born 2002)
+2002,2024,US mountain biker
+2002,2024,English footballer (born 2002)
+2002,2024,American Paralympic swimmer
+2002,2024,New Zealand footballer (born 2002)
+2002,2024,American soccer player (born 2002)
+2002,2024,American synchronized swimmer (born 2002)
+2002,2024,American soccer player (born 2002)
+2002,2024,American boxer (born 2002)
+2002,2024,American athlete (born 2002)
+2003,2024,American baseball player (born 2002)
+2002,2024,American football player (born 2002)
+2002,2024,American football player (born 2002)
+2002,2024,Colombian footballer (born 2002)
+2002,2024,American baseball player (born 2002)
+2002,2024,American racing driver
+2002,2024,Norwegian and American soccer player (born 2002)
+2002,2024,Canadian gridiron football player (born 2002)
+2003,2005,Prince of Monaco since 2005
+2003,2005,Musical artist
+2003,2008,American actress
+2003,2011,American actor (born 2003)
+2003,2012,American actor (born 2003)
+2003,2012,American basketball player (born 2003)
+2003,2012,American child actor and model (born 2003)
+2003,2012,American chess grandmaster (born 2003)
+2003,2011,American rapper (born 2003)
+2003,2012,American football and soccer player (born 2003)
+2003,2012,American actress
+2003,2012,American actress (born 2003)
+2003,2013,American actress
+2003,2013,American musician (born 2003)
+2003,2013,American actor (born 2003)
+2003,2013,American actress
+2003,2013,American actor
+2003,2014,American actress
+2003,2014,An American actor
+2003,2010,American actress
+2004,2014,American actor (born 2003)
+2003,2014,American actor and model
+2003,2014,American actress
+2003,2015,American actress
+2003,2015,American actor (born 2003)
+2003,2015,American child actress (born 2003)
+2003,2016,American actress
+2003,2016,American actor (born 2003)
+2003,2016,American actor (born 2003)
+2003,2016,American actor
+2003,2016,American singer and dancer (born 2003)
+2003,2016,Musical artist
+2003,2016,American actor (born 2003)
+2003,2016,American actor and singer
+2003,2016,American actor
+2003,2016,American actress
+2003,2016,American actress (born 2003)
+2003,2016,American actor
+2003,2016,American actor
+2003,2017,American singer-songwriter and actress (born 2003)
+2003,2017,Filipino singer and actor (born 2003)
+2003,2012,Australian television personality and conservationist (born 2003)
+2003,2017,American actress (born 2003)
+2003,2017,American actress
+2003,2017,American singer
+2003,2017,Saint Lucian swimmer and Olympic athlete
+2003,2017,American actress
+2003,2017,American actor
+2003,2017,American rapper and internet personality (born 2003)
+2003,2017,American actor
+2003,2017,American actress, model, and pianist (born 2003)
+2003,2018,No occupation found
+2003,2018,American author and activist (born 2003)
+2003,2018,American model and actress (born 2003)
+2003,2018,American actor
+2003,2018,Iranian-French chess grandmaster (born 2003)
+2003,2018,American actor and musician (born 2003)
+2003,2018,American artistic gymnast
+2003,2018,American singer (born 2003)
+2003,2018,American artistic gymnast
+2003,2018,St. Maartener footballer
+2003,2018,Mexican and American singer (born 2003)
+2003,2018,Footballer (born 2003)
+2003,2018,British artistic gymnast
+2003,2018,American soccer player
+2003,2018,Indian-American inventor, scientist and speaker
+2003,2018,Romanian volleyball player
+2003,2018,Hmong-American artistic gymnast (born 2003)
+2003,2018,American racing driver (born 2003)
+2003,2019,American ice dancer
+2003,2019,American country singer
+2003,2019,American rapper
+2003,2019,American figure skater
+2003,2019,American soccer player
+2003,2019,Canadian artistic gymnast
+2003,2019,American environmental activist (born 2003)
+2003,2019,Hungarian artistic gymnast
+2003,2019,American soccer player
+2003,2019,American soccer player
+2003,2019,American soccer player
+2003,2019,American soccer player
+2003,2019,American soccer player (born 2003)
+2003,2019,American Internet personality
+2003,2019,American soccer player
+2003,2019,American soccer player
+2003,2019,Colombian footballer (born 2003)
+2003,2019,American soccer player
+2003,2019,American footballer
+2003,2019,American soccer player
+2003,2019,Dominican baseball player (born 2003)
+2003,2019,Japanese tennis player
+2003,2019,Singaporean swimmer (born 2003)
+2003,2019,Filipino-American artistic gymnast
+2003,2019,Salvadoran footballer (born 2003)
+2003,2019,American racing driver (born 2003)
+2003,2019,American soccer player
+2003,2019,American soccer player
+2003,2019,American tennis player
+2003,2019,American tennis player
+2003,2019,American soccer player
+2003,2019,Swiss footballer (born 2003)
+2003,2019,American guitarist
+2003,2019,American soccer player
+2003,2019,American soccer player (born 2003)
+2003,2019,American-born Saint Kitts and Nevis footballer
+2003,2019,American soccer player
+2003,2019,American chess player
+2003,2019,American soccer player
+2003,2019,Chinese-American figure skater
+2003,2019,American race car driver
+2003,2020,Irish footballer (born 2003)
+2003,2020,Indonesian tennis player
+2003,2020,American soccer player
+2003,2020,Peruvian tennis player (born 2003)
+2003,2020,American racing driver
+2003,2020,Dominican footballer
+2003,2020,Dominican footballer
+2003,2020,Russian ice dancer
+2000,2020,American wrestler
+2003,2020,Dominican footballer
+2003,2020,American actress
+2003,2020,American singer-songwriter
+2003,2020,American soccer player
+2003,2020,Professional footballer
+2003,2020,American soccer player
+2003,2020,British racing driver (born 2003)
+2003,2020,American artistic gymnast
+2003,2020,Turkish basketball player (born 2003)
+2003,2020,Puerto Rican footballer (born 2003)
+2003,2020,American swimmer (born 2003)
+2003,2020,American actor
+2003,2020,Canadian singer-songwriter, dancer and actress (born 2003)
+2003,2020,American gun control advocate (born 2003)
+2003,2020,American actor (born 2003)
+2003,2020,Filipino-American short track speed skater
+2003,2020,American actor and YouTuber (born 2003)
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American para badminton player
+2003,2020,American soccer player (born 2003)
+2003,2020,Dominican Republic footballer (b. 2003)
+2003,2020,American soccer player
+2003,2020,Colombian footballer
+2003,2020,Cuban footballer (born 2003)
+2003,2020,American soccer player
+2003,2020,Peruvian footballer (born 2003)
+2003,2020,American soccer player (born 2003)
+2003,2020,American soccer player
+2003,2020,American soccer player (born 2003)
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,Filipino footballer
+2003,2020,American soccer player
+2003,2020,American basketball player (born 2003)
+2003,2020,American soccer player
+2003,2020,Puerto Rican footballer
+2003,2020,American soccer player
+2003,2020,American soccer player (born 2003)
+2003,2020,American soccer player
+2003,2020,English footballer
+2003,2020,Republic of Ireland footballer
+2003,2020,American professional golfer
+2003,2020,Puerto Rican footballer
+2003,2020,Zimbabwean footballer
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,Japanese footballer
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American known for the Kenosha unrest shooting (born 2003)
+2003,2020,Turkish volleyball player
+2003,2020,American soccer player (born 2003)
+2003,2020,American soccer player
+2003,2020,Australian singer, dancer, actress, composer and model
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American beauty blogger, makeup artist, and social media personality (2003–2020)
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American basketball player
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American basketball player (born 2003)
+2003,2020,American soccer player (born 2003)
+2003,2020,American soccer player
+2003,2020,American basketball player
+2003,2020,Chilean footballer (born 2003)
+2003,2020,American–Dominican footballer
+2003,2020,American soccer player
+2003,2020,American professional soccer player
+2003,2020,Professional footballer
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American soccer player
+2003,2020,American chess player
+2003,2020,American basketball player (born 2003)
+2003,2020,Brazilian footballer (born 2003)
+2003,2020,Peruvian footballer (born 2003)
+2003,2020,English footballer
+2003,2020,American runner
+2003,2020,Jordanian tennis player (born 2003)
+2003,2020,Argentine footballer
+2003,2020,Canadian ice hockey goaltender
+2003,2020,Israeli artistic gymnast
+2003,2021,Egyptian rhythmic gymnast
+2003,2021,American basketball player (born 2003)
+2003,2021,Canadian ice hockey player
+2003,2021,American chess grandmaster (born 2003)
+2003,2021,Puerto Rican footballer
+2003,2021,Venezuelan football player (born 2003)
+2003,2021,American chess grandmaster (born 2003)
+2003,2021,Slovak footballer
+2003,2021,Dominican footballer (born 2003)
+2003,2021,Dominican footballer
+2003,2021,Canadian soccer player
+2003,2021,American baseball pitcher (born 2003)
+2003,2021,Colombian footballer (born 2003)
+2003,2021,American football player (born 2003)
+2003,2021,American freestyle snowboarder (born 2003)
+2003,2021,Polish basketball player (born 2003)
+2003,2021,American-born freestyle skier (born 2003)
+2003,2021,British freestyle skier
+2003,2021,American baseball player
+2003,2021,Canadian basketball player (born 2003)
+2003,2021,American hacker and cybercriminal (born 2003)
+2003,2021,American baseball player (born 2003)
+2003,2021,Guyanese footballer
+2003,2021,Lebanese footballer (born 2003)
+2003,2021,American association football player
+2003,2021,American basketball player
+2003,2021,American basketball player (born 2003)
+2003,2021,American country singer
+2003,2021,Finnish ice hockey player
+2003,2021,American soccer player
+2003,2021,Serbian basketball player (born 2003)
+2003,2021,American soccer player
+2003,2021,Liberian footballer (born 2003)
+2003,2021,American association football player
+2003,2021,Canadian soccer player
+2003,2021,Finnish ice hockey player (born 2003)
+2003,2021,Hungarian taekwondo practitioner (born 2003)
+2003,2021,Canadian soccer player
+2003,2021,American soccer player
+2003,2021,American soccer player (born 2003)
+2003,2021,American soccer player
+2003,2021,American soccer player
+2003,2021,American player
+2003,2021,American soccer player
+2003,2021,American soccer player
+2003,2021,American soccer player
+2003,2021,German swimmer
+2003,2021,Ukrainian footballer and futsal player
+2003,2021,Turkish swimmer (born 2003)
+2003,2021,American football player (born 2003)
+2003,2021,American racing driver (born 2003)
+2003,2021,Example association football player
+2004,2021,Dominican basketball player (born 2003)
+2003,2021,Trinidad and Tobago footballer
+2003,2021,American diver (born 2003)
+2003,2021,Woman who filmed the murder of George Floyd
+2003,2021,American diver (born 2003)
+2003,2021,American baseball player (born 2003)
+2003,2021,American basketball player (born 2003)
+2003,2021,Australian basketball player (born 2003)
+2003,2021,American soccer player
+2003,2021,American soccer player
+2003,2021,Dominican-American baseball player (born 2003)
+2003,2021,American basketball player
+2003,2021,American basketball player
+2003,2021,American basketball player (born 2003)
+2003,2021,Australian skateboarder (born 2003)
+2003,2021,Canadian soccer player
+2003,2021,American soccer player
+2003,2021,American soccer player
+2003,2021,American sprinter (born 2003)
+2003,2021,American soccer player
+2003,2021,Dominican footballer
+2003,2021,Turkish swimmer (born 2003)
+2003,2021,American rock climber (born 2003)
+2003,2021,American tennis player (born 2003)
+2003,2021,American baseball player
+2003,2021,American baseball player (born 2003)
+2003,2021,American baseball player (born 2003)
+2003,2021,American baseball player
+2003,2021,American tennis player
+2003,2021,American baseball player
+2003,2021,American baseball player (born 2003)
+2003,2021,Salvadoran footballer (born 2003)
+2003,2021,Brazilian racing driver (born 2003)
+2003,2021,American ice hockey player (born 2003)
+2003,2021,Canadian hockey player (born 2003)
+2003,2021,American table tennis player
+2003,2021,Canadian chess player
+2003,2021,Finnish ice hockey player (born 2003)
+2003,2021,American soccer player
+2003,2021,Guatemalan footballer
+2003,2021,American soccer player
+2003,2021,American soccer player
+2003,2021,American ice hockey player (born 2003)
+2003,2021,American-born Canadian ice hockey player
+2003,2021,American ice hockey player (born 2003)
+2003,2021,Canadian ice hockey player (born 2003)
+2003,2021,South African swimmer (born 2003)
+2003,2021,South African Olympic swimmer
+2003,2021,Angolan swimmer
+2003,2021,Canadian soccer player
+2003,2021,Dominican baseball player (born 2003)
+2003,2021,English gymnast
+2003,2021,Canadian soccer player
+2003,2021,American-Nigerian footballer
+2003,2021,Nigerian sprinter
+2003,2021,Slovenian basketball player
+2003,2021,American field hockey player
+2003,2021,American basketball player (born 2003)
+2003,2021,American Paralympic athlete
+2003,2021,American Paralympic swimmer
+2003,2021,American badminton player
+2003,2021,American tennis player
+2003,2021,American field hockey player
+2003,2021,American football player (born 2003)
+2003,2021,American football player (born 2003)
+2003,2021,American basketball player (born 2003)
+2003,2021,American racing driver (born 2003)
+2003,2021,American Paralympic volleyballer (born 2003)
+1989,2021,American cricketer
+2003,2021,French tennis player
+2003,2021,American soccer player
+2003,2021,Filipino basketball player
+2003,2021,American film actor (born 2003)
+2003,2021,English footballer
+2003,2021,American football player (born 2003)
+2003,2021,American racing driver (born 2003)
+2003,2021,New Zealand racing driver (born 2003)
+2003,2021,Canadian soccer player
+2003,2021,American racing driver
+2003,2021,Canadian soccer player (born 2003)
+2003,2021,American record producer (born 2003)
+2003,2021,American racing driver
+2003,2021,American cricketer
+2003,2021,Saudi tennis player
+2003,2021,American racing driver
+2003,2021,American swimmer (born 2003)
+2003,2021,American racing driver
+2003,2021,American beauty pageant contestant
+2003,2021,American soccer player
+2003,2021,American soccer player
+2003,2021,Salvadoran footballer (born 2003)
+2003,2021,American racing driver
+2003,2021,Bahamian footballer (born 2003)
+2003,2021,New Zealand footballer (born 2003)
+2003,2021,English footballer (born 2003)
+2003,2021,American cricketer
+2003,2021,Danish footballer (born 2003)
+2003,2021,American professional stock car driver
+2003,2021,American basketball player (born 2003)
+2003,2021,American racing driver (born 2003)
+2003,2021,American cricketer
+2003,2021,American football player (born 2003)
+2003,2021,Argentine footballer
+2003,2021,Canadian basketball player
+2003,2021,Australian boxer (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American-born Israeli association footballer (born 2003)
+2003,2022,American rapper (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,Musical artist
+2003,2022,Ghanaian footballer
+2003,2022,American freestyle skier
+2003,2022,Filipino footballer
+2003,2022,Bahamian sprinter
+2003,2022,American professional snowboarder
+2003,2022,American professional snowboarder
+2003,2022,American baseball player
+2003,2022,American soccer player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American baseball player
+2003,2022,Northern Marianas footballer
+2003,2022,American rapper and singer from Indiana (born 2003)
+2003,2022,Baseball player
+2003,2022,Swedish racing driver
+2003,2022,Ecuadorian footballer (born 2003)
+2003,2022,American soccer player
+2003,2022,American basketball player (born 2003)
+2003,2022,American baseball player
+2003,2022,Baseball player
+2003,2022,Colombian footballer (born 2003)
+2003,2022,American soccer player
+2003,2022,American soccer player (born 2003)
+2003,2022,Canadian soccer player
+2003,2022,Baseball player
+2003,2022,American basketball player
+2002,2022,American basketball player
+2003,2022,American racing driver
+2003,2022,Sierra Leonean footballer
+2003,2022,American professional wrestler and taekwondo practitioner
+2003,2022,American soccer player
+2003,2022,Nigerian footballer
+2003,2022,Saint Lucian footballer
+2003,2022,American baseball player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American soccer player
+2003,2022,American actor and model (born 2003)
+2003,2022,Filipino footballer
+2003,2022,Guinean-Burkinabé basketball player (born 2003)
+2003,2022,American mountain climber
+2003,2022,American racing driver (born 2003)
+2003,2022,Puerto Rican footballer (born 2003)
+2003,2022,American basketball player
+2003,2022,Baseball player
+2003,2022,American baseball player (born 2003)
+2003,2022,Baseball player
+2003,2022,American paralympic swimmer
+2003,2022,Canadian soccer player (born 2003)
+2003,2022,American basketball player
+2003,2022,Baseball player
+2003,2022,American racing driver
+2003,2022,Filipino-American singer-songwriter (born 2003)
+2003,2022,American baseball player (born 2003)
+2003,2022,American basketball player
+2003,2022,Bulgarian volleyball player
+2003,2022,Dominican baseball player (born 2003)
+2003,2022,American middle-distance runner (born 2003)
+2003,2022,American soccer player
+2003,2022,Argentine footballer
+2002,2022,American middle-distance runner
+2003,2022,American speed climber (born 2003)
+2003,2022,Baseball player
+2003,2022,Baseball player
+2003,2022,Scottish amateur golfer
+2003,2022,Ivorian footballer
+2003,2022,American football player (born 2003)
+2003,2022,Nigerian athlete (born 2003)
+2003,2022,Irish footballer
+2003,2022,Irish-Australian association footballer
+2003,2022,American rapper (born 2003)
+2003,2022,American basketball player
+2003,2022,Swedish footballer (born 2003)
+2003,2022,British athlete (born 2003)
+2003,2022,Bahamian athlete
+2003,2022,American swimmer
+2004,2022,American football guard (born 2003)
+2003,2022,Musical artist
+2003,2022,Samoan footballer
+2003,2022,Brazilian jiu-jitsu practitioner from the US
+2003,2022,Uruguayan-American footballer (born 2003)
+2003,2022,American rapper and singer
+2003,2022,American football player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American footballer (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,Chilean football and futsal player
+2003,2022,American football player (born 2003)
+2003,2022,Canadian association football player
+2003,2022,American basketball player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,American basketball player (born 2003)
+2003,2022,Bahamian swimmer (born 2003)
+2003,2022,American ice hockey player
+2003,2022,American football player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,American rapper
+2003,2022,American basketball player
+2003,2022,American basketball player (born 2003)
+2003,2022,American basketball player
+2003,2022,American football player (born 2003)
+2003,2022,Tanzanian footballer
+2003,2022,American rapper
+2003,2022,American football player (born 2003)
+2003,2022,Irish footballer (born 2003)
+2003,2022,Malaysian professional footballer
+2003,2022,American weightlifter (born 2003)
+2003,2022,Iranian prisoner
+2003,2022,American football player (born 2003)
+2003,2022,American football player (born 2003)
+2003,2022,Ghanaian professional footballer
+2003,2022,American basketball player
+2003,2022,American ice hockey player
+2003,2022,Jamaican footballer (born 2003)
+2003,2023,Paraguayan footballer (born 2003)
+2003,2023,Colombian footballer (born 2003)
+2003,2023,Colombian footballer (born 2003)
+2003,2023,American basketball player (born 2003)
+2003,2023,American basketball player
+2003,2023,Peruvian footballer (born 2003)
+2003,2023,Serbian footballer (born 2003)
+2003,2023,American basketball player (born 2003)
+2003,2023,American basketball player (born 2003)
+2003,2023,American soccer player (born 2003)
+2003,2023,American judoka (born 2003)
+2003,2023,American basketball player (born 2003)
+2003,2023,American basketball player
+2003,2023,Brazilian footballer
+2003,2023,American football player (born 2003)
+2003,2023,American soccer player (born 2003)
+2004,2023,American basketball player
+2003,2023,American racing driver
+2003,2023,American basketball player (born 2003)
+2003,2023,Eritrean runner
+2003,2023,Spanish footballer (born 2003)
+2003,2023,American soccer player
+2003,2023,Colombian footballer (born 2003)
+2003,2023,American basketball player (born 2003)
+2003,2023,Swedish basketball player (born 2003)
+2003,2023,American soccer player
+2003,2023,Greek footballer (born 2003)
+2003,2023,American soccer player (born 2003)
+2003,2023,Brazilian footballer (born 2003)
+2003,2023,American rapper and basketball player (born 2003)
+2003,2023,Honduran footballer
+2003,2023,American racing driver
+2003,2023,Musical artist
+2003,2023,American racing driver
+2003,2023,British activist (born 2003)
+2003,2023,American tennis player (born 2003)
+2003,2023,Chinese tennis player (born 2003)
+2003,2023,Nigerian athlete
+2003,2023,American soccer player
+2003,2023,Canadian sprinter and hurdler
+2003,2023,American Middle-distance runner, sprinter and hurdler
+2003,2023,Nigerian basketball player (born 2003)
+2003,2023,American field hockey player (born 2003)
+2003,2023,Ukrainian-born American adoptee (born 2003)
+2003,2023,American tennis player (born 2003)
+2003,2023,Nigerian footballer (born 2003)
+2003,2023,American professional wrestler (born 2003)
+2003,2023,Trinidad and Tobagon footballer
+2003,2023,German golfer (born 2003)
+2003,2023,Colombian footballer (born 2003)
+2003,2023,American actor (born 2003)
+2003,2023,American basketball player
+2003,2023,American baseball player (born 2003)
+2003,2023,American professional soccer player
+2003,2023,Argentine footballer (born 2003
+2003,2023,Singaporean footballer
+2003,2023,Spanish golfer
+2003,2023,American football player (born 2003)
+2003,2023,No occupation found
+2003,2023,Jamaican footballer (born 2003)
+2003,2023,American basketball player
+2003,2023,American model and influencer (born 2003)
+2003,2023,American cyclist
+2003,2023,American cyclist
+2003,2023,American football player (born 2003)
+2003,2023,American Paralympic swimmer (born 2003)
+2003,2023,American racing driver
+2003,2023,American actor (born 2003)
+2003,2023,Dominican Republic footballer (b. 2003)
+2003,2023,American chess player
+2003,2023,American digital artist, painter, and sculptor
+2003,2023,German footballer (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,Puerto Rican footballer
+2003,2023,American ice dancer
+2003,2023,Russian professional golfer
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American rapper
+2003,2023,Vietnamese-American Paralympic swimmer
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American racing driver
+2003,2023,Dominican rapper
+2003,2023,Indian television and film actress
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American football player
+2003,2023,American basketball player (born 2003)
+2003,2023,American swimmer (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American football quarterback (born 2003)
+2003,2023,American influencer (born 2003)
+2003,2023,Baseball player
+2003,2023,American football running back (born 2003)
+2003,2023,American baseball player (born 2003)
+2003,2023,American basketball player
+2003,2023,American basketball player
+2003,2023,American football player (born 2003)
+2003,2023,Indonesian-Cameroonian basketball player
+2003,2023,American football player (born 2003)
+2003,2023,American football player (born 2003)
+2003,2023,American football defensive end (born 2003)
+2003,2023,German-American social media influencer and model
+2003,2023,American ice dancer
+2003,2023,American football player (born 2003)
+2003,2023,American baseball player (born 2003)
+2003,2023,Senegalese footballer
+2003,2024,Ugandan long-distance runner (born 2003)
+2003,2024,American soccer player
+2003,2024,American ice hockey player (born 2005)
+2003,2024,Turkish hurdler and sprinter (born 2003)
+2003,2024,American basketball player
+2003,2024,American professional golfer (born 2003)
+2003,2024,American baseball player (born 2003)
+2003,2024,American singer-songwriter (born 2003)
+2003,2024,American basketball player
+2003,2024,Croatian basketball player (born 2003)
+2003,2024,Sierra Leone footballer
+2003,2024,French basketball player
+2003,2024,Brazilian footballer
+2003,2024,American basketball player (born 2003)
+2003,2024,Norwegian professional golfer
+2003,2024,American football player (born 2003)
+2003,2024,Finnish footballer (born 2003)
+2003,2024,New Zealand footballer
+2003,2024,American rapper (born 2003)
+2003,2024,Swiss basketball player (born 2003)
+2003,2024,American ice hockey player (born 2003)
+2003,2024,American singer (born 2003)
+2003,2024,Indian chess grandmaster (born 2003)
+2003,2024,Ghanaian association football player
+2003,2024,American basketball player (born 2003)
+2003,2024,American-born German athlete
+2003,2024,American actor (born 2003)
+2003,2024,Baseball player
+2003,2024,American actor (born 2003)
+2003,2024,Finnish footballer (born 2003)
+2003,2024,American racing driver
+2003,2024,Kenyan athlete
+2003,2024,Honduran footballer (born 2003)
+2003,2024,Baseball player
+2003,2024,Baseball player
+2003,2024,Canadian ice hockey player (born 2003)
+2003,2024,American baseball player (born 2003)
+2003,2024,Somali footballer
+2003,2024,American racing driver
+2003,2024,American soccer player
+2003,2024,American baseball player (born 2003)
+2005,2024,American ice hockey player (born 2003)
+2003,2024,American ice hockey player (born 2003)
+2003,2024,American ice hockey player (born 2003)
+2003,2024,American racing driver
+2003,2024,American ice hockey player (born 2003)
+2003,2024,Trinidad and Tobago sprinter (born 2003)
+2003,2024,American middle-distance runner (born 2003)
+2003,2024,American middle-distance runner (born 2003)
+2003,2024,English Twitch streamer and YouTuber (born 2003)
+2003,2024,Spanish golfer (born 2006)
+2003,2024,American basketball player (born 2003)
+2003,2024,American soccer player (born 2003)
+2003,2024,Czech ice hockey player (born 2003)
+2003,2024,American college basketball player
+2003,2024,American softball player
+2003,2024,Saint Vincent and Grenadine association football player (born 2023)
+2003,2024,English tennis player (born 2003)
+2003,2024,American long-distance runner
+2003,2024,Filipino footballer
+2003,2024,No occupation found
+2003,2024,American swimmer
+2003,2024,American swimmer
+2003,2024,American baseball player (born 2003)
+2003,2024,American athlete (born 2003)
+2003,2024,American soccer player (born 2003)
+2003,2024,Croatian basketball player
+2003,2024,American YouTuber
+2003,2024,Chinese-American rapper (born 2003)
+2003,2024,American professional boxer
+2003,2024,Attempted assassin of Donald Trump (2003–2024)
+2003,2024,Jamaican athlete (born 2003)
+2003,2024,American racing driver
+2003,2024,Aruban swimmer
+2003,2024,American breakdancer (born 2003)
+2003,2024,Togolese footballer (born 2003)
+2003,2024,American athlete (born 2003)
+2003,2024,American soccer player (born 2003)
+2003,2024,Scottish golfer (born 2003)
+2003,2024,American racing driver
+2004,2006,American soccer player (born 2004)
+2004,2007,American sextuplets (born 2004)
+2004,2009,American singer and actress
+2004,2011,American actress
+2004,2011,American actress
+2004,2012,American actress
+2005,2013,US singer and actor
+2004,2014,American mountain climber (born 2004)
+2004,2014,Indian American teen actor
+2004,2014,Russian-American golfer (born 2004)
+2004,2014,American taekwondo practitioner
+2004,2015,American actress born (2004)
+2004,2015,American actor (born 2004)
+2004,2015,American singer-songwriter
+2004,2015,American actor
+2004,2014,American actress (born 2004)
+2004,2016,American actress
+2004,2016,American actor (born 2004)
+2004,2016,American actor
+2004,2016,British actress (born 2004)
+2004,2016,American actress (born 2004)
+2004,2016,American singer-songwriter (born 2004)
+2004,2016,American actor (born 2004)
+2004,2016,American actor
+2004,2016,American actor
+2004,2016,American singer and actress (born 2004)
+2004,2017,American child actress (born 2004)
+2004,2017,American actress (born 2004)
+2004,2017,American actor
+2004,2017,American actor
+2004,2017,American actor
+2004,2017,Jamaican sprinter (born 2004)
+2004,2017,American ventriloquist (born 2004)
+2004,2017,American tennis player (born 2004)
+2004,2017,American actor (born 2004)
+2004,2017,Son of Alexander Lukashenko (born 2004)
+2004,2018,American YouTuber, actress and singer (born 2004)
+2004,2018,Canadian singer and children's activist
+2004,2018,American actress, dancer, and Singer
+2004,2018,American actress (born 2004)
+2004,2018,American artistic gymnast
+2004,2018,American basketball player (born 2004)
+2004,2018,American fly casting champion
+2004,2018,British singer (born 2004)
+2004,2018,American actor
+2004,2018,American professional skateboarder (born 2004)
+2004,2019,American actor (born 2004)
+2004,2019,American artistic gymnast
+2004,2019,American skateboarder (born 2004)
+2004,2019,Canadian Indigenous rights advocate
+2004,2019,American professional football player
+2004,2019,American singer
+2004,2019,American rapper
+2004,2019,American actress
+2004,2019,American basketball player (born 2004)
+2004,2019,American artistic gymnast
+2004,2019,Canadian soccer player
+2004,2019,American actress
+2004,2019,American cricketer
+2004,2019,American cricketer
+2004,2019,American professional golfer
+2004,2019,Canadian association football player
+2004,2020,American social media personality (born 2004)
+2004,2020,American figure skater
+2004,2020,American entrepreneur (born 2004)
+2004,2020,American artistic gymnast
+2004,2020,British artistic gymnast
+2004,2020,American slalom canoeist (born 2004)
+2004,2020,American archer (born 2004)
+2004,2020,Maltese footballer
+2004,2020,American actor
+2004,2020,American actress (born 2004)
+2004,2020,American basketball player (born 2004)
+2004,2020,American political consultant, pollster (born 1967)
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player (born 2004)
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,Colombian footballer (born 2004)
+2004,2020,Bolivian footballer
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,Professional footballer
+2004,2020,American tennis player
+2004,2020,American tennis player
+2004,2020,Greek footballer
+2004,2020,American-Puerto Rican actress and singer
+2004,2020,American soccer player
+2004,2020,American soccer player
+2004,2020,Immediate family of Joe Biden
+2004,2020,American soccer player
+2004,2020,American figure skater
+2004,2020,Trinidadian footballer
+2004,2020,American actor (born 2004)
+2004,2020,Canadian soccer player
+2004,2020,American ice dancer
+2004,2020,American long-distance runner
+2004,2021,American swimmer (born 2004)
+2004,2021,Ukrainian-American pair skater
+2004,2021,Musician, DJ, music producer and visual artist (born 2004)
+2004,2021,British YouTuber and Twitch streamer (born 2004)
+2004,2021,Canadian musician
+2004,2021,American freestyle skier
+2004,2021,American freestyle skier
+2004,2021,American–Albanian footballer
+2004,2021,Lebanese footballer (born 2004)
+2004,2021,American footballer
+2004,2021,Mexican YouTuber, singer and actress
+2004,2021,Italian racing driver
+2004,2021,American soccer player
+2004,2021,American soccer player
+2004,2021,Russian ice hockey player (born 2004)
+2004,2021,American swimmer
+2004,2021,American soccer player
+2004,2021,Mexican footballer (born 2004)
+2004,2021,American soccer player
+2004,2021,American soccer player
+2004,2021,Irish footballer
+2004,2021,American soccer player
+2004,2021,Canadian soccer player
+2004,2021,American basketball player (born 2004)
+2004,2021,Slovak ice hockey player (born 2004)
+2004,2021,American racing driver (born 2004)
+2004,2021,American soccer player
+2004,2021,American soccer player
+2004,2021,Professional footballer (born 2004)
+2004,2021,American soccer player
+2004,2021,American sprinter
+2004,2021,American soccer player
+2004,2021,American basketball player
+2004,2021,American racing driver (born 2004)
+2004,2021,American soccer player (born 2004)
+2004,2021,American soccer player
+2004,2021,American soccer player
+2004,2021,American soccer player
+2004,2021,Canadian basketball player
+2004,2021,American soccer player
+2004,2021,American figure skater (born 2004)
+2004,2021,Russian tennis player
+2004,2021,American-Chinese pianist
+2004,2021,American basketball player (born 2004)
+2004,2021,Caymanian racing driver (born 2004)
+2004,2021,Paraguayan swimmer (born 2004)
+2004,2021,Puerto Rican swimmer (born 2004)
+2004,2021,Cape Verdean swimmer
+2004,2021,Haitian taekwondo practitioner
+2004,2021,American soccer player
+2004,2021,Ecuadorian footballer (born 2004)
+2004,2021,American soccer player
+2004,2021,American soccer player
+2004,2021,American soccer player
+2004,2021,Cameroonian footballer
+2004,2021,American soccer player
+2004,2021,American soccer player (born 2004)
+2004,2021,American tennis player (born 2004)
+2004,2021,American-British racing driver
+2004,2021,English footballer
+2004,2021,American Paralympic swimmer
+2004,2021,American Paralympic swimmer (born 2004)
+2004,2021,American field hockey player
+2004,2021,Salvadoran footballer (born 2004)
+2004,2021,American tennis player
+2004,2021,American tennis player (born 2004)
+2004,2021,American wheelchair basketball player
+2004,2021,American soccer player
+2004,2021,No occupation found
+2004,2021,American soccer player (born 2004)
+2004,2021,American racing driver (born 2004)
+2004,2021,Slovenian footballer (born 2004)
+2004,2021,American artistic gymnast
+2004,2021,American soccer player
+2004,2021,Colombian footballer
+2004,2021,Salvadoran footballer (born 2004)
+2004,2021,American soccer player
+2004,2021,American racing driver (born 2004)
+2004,2021,Canadian racing driver
+2004,2021,American racing driver
+2004,2021,American racing driver
+2004,2021,American singer and songwriter (born 2004)
+2004,2021,American rapper (born 2004)
+2004,2021,American racing driver
+2004,2021,American soccer player
+2004,2021,American swimmer (born 2004)
+2004,2021,American racing driver
+2004,2021,American actor
+2004,2022,American tennis player
+2004,2022,American ice hockey player (born 2004)
+2004,2022,Sierra Leonean footballer
+2004,2022,Venezuelan football player (born 2004)
+2004,2022,Kenyan tennis player
+2004,2022,American chess player
+2004,2022,Canadian ski jumper (born 2004)
+2004,2022,Japanese footballer
+2004,2022,Cypriot footballer
+2004,2022,American speed skater (born 2004)
+2005,2022,Liberian footballer
+2004,2022,Finnish racing driver
+2004,2022,Mexican racing driver
+2004,2022,Baseball player
+2004,2022,Northern Marianas footballer
+2004,2022,Argentine footballer
+2004,2022,American baseball player
+2004,2022,American ice sledge hockey player
+2004,2022,American basketball player (born 2004)
+2004,2022,American basketball player (born 2004)
+2004,2022,American soccer player
+2004,2022,Mexican footballer (born 2004)
+2004,2022,American track and field athlete
+2004,2022,American racing driver
+2004,2022,American soccer player
+2004,2022,American gymnast
+2004,2022,American actress (born 2004)
+2004,2022,American basketball player (born 2004)
+2004,2022,American baseball player
+2004,2022,American baseball player
+2004,2022,American soccer player
+2004,2022,American weightlifter (born 2004)
+2004,2022,American musician (born 2004)
+2004,2022,Moroccan tennis player
+2004,2022,Footballer (born 2004)
+2004,2022,American cricketer
+2004,2022,Serbian-Greek basketball player
+2004,2022,Kitesurfer
+2004,2022,American racing driver
+2004,2022,American baseball player
+2004,2022,Venezuelan baseball player (born 2004)
+2004,2022,American racing driver
+2004,2022,American baseball player (born 2004)
+2004,2022,German ice hockey player
+2004,2022,American actor (2004–2022)
+2004,2022,American singer-songwriter (born 2004)
+2004,2022,American actor (born 2004)
+2004,2022,American musician
+2004,2022,American basketball player
+2004,2022,American ice hockey player (born 2004)
+2004,2022,American ice hockey player (born 2004)
+2004,2022,Swedish-American ice hockey player
+2004,2022,American ice hockey player (born 2004)
+2004,2022,American ice hockey player (born 2004)
+2004,2022,American tennis player
+2004,2022,American tennis player (born 2004)
+2004,2022,American soccer player (born 2004)
+2004,2022,American ice hockey player (born 2004)
+2004,2022,Serbian basketball player
+2004,2022,American baseball player
+2004,2022,Baseball player
+2004,2022,Baseball player
+2004,2022,American basketball player (born 2004)
+2004,2022,Canadian soccer player
+2004,2022,Nigerian college basketball player (born 2004)
+2004,2022,Icelandic basketball player
+2004,2022,American folk musician
+2004,2022,American electronic, pop and hip-hop musician
+2004,2022,Professional footballer (born 2004)
+2004,2022,English amateur golfer
+2004,2022,American soccer player
+2004,2022,Puerto Rican footballer (born 2004)
+2004,2022,American tennis player
+2004,2022,American athlete
+2004,2022,American tennis player
+2004,2022,American tennis player (born 2004)
+2004,2022,American paralympic athlete
+2004,2022,American swimmer
+2004,2022,American figure skater (born 2004)
+2004,2022,Swedish-American athlete
+2004,2022,Turkish-Russian racing driver
+2004,2022,American soccer player
+2004,2022,American tennis player
+2004,2022,Norwegian footballer (born 2004)
+2004,2022,American gymnast
+2004,2022,American freestyle wrestler
+2004,2022,American swimmer
+2004,2022,American rapper (born 2004)
+2004,2022,American model and beauty pageant titleholder
+2004,2022,American soccer player
+2004,2022,American soccer player (born 2004)
+2004,2022,American artistic gymnast
+2004,2022,Salvadoran footballer (born 2004)
+2004,2022,Danish footballer (born 2004)
+2004,2022,American-Swedish basketball player
+2004,2022,Venezuelan footballer (born 2004)
+2004,2022,Venezuelan footballer (born 2004)
+2004,2022,American football player (born 2004)
+2004,2022,American-French footballer
+2004,2022,American football player (born 2004)
+2004,2022,American football player (born 2004)
+2004,2022,Canadian ice hockey player (born 2004)
+2004,2022,Australian soccer player
+2000,2022,English footballer (born 2000)
+2004,2022,American basketball player (born 2004)
+2004,2022,American rapper (born 2004)
+2004,2022,American basketball player (born 2004)
+2004,2022,American singer-songwriter
+2004,2022,Australian basketball player
+2004,2022,American football player (born 2004)
+2004,2022,American basketball player (born 2004)
+2004,2022,American football player (born 2004)
+2004,2022,American football player (born 2004)
+2004,2022,American chess grandmaster (born 2004)
+2004,2022,American politician
+2004,2022,American football player (born 2004)
+2004,2022,American rhythmic gymnast
+2004,2022,American rhythmic gymnast
+2004,2023,Finnish ice hockey player (born 2004)
+2004,2023,Emirati racing driver
+2004,2023,Colombian footballer (born 2004)
+2004,2023,American soccer player (born 2004)
+2004,2023,American basketball player
+2004,2023,Peruvian footballer (born 2005)
+2004,2023,Colombian footballer
+2004,2023,American basketball player (born 2004)
+2004,2023,American basketball player (born 2004)
+2004,2023,American basketball player
+2004,2023,American activist (born 2004)
+2004,2023,American basketball player (born 2004)
+2004,2023,American basketball player (born 2004)
+2004,2023,Chilean footballer (born 2004)
+2004,2023,Canadian soccer player
+2004,2023,American basketball player (born 2004)
+2004,2023,Baseball player
+2004,2023,English footballer (born 2004)
+2004,2023,American basketball player
+2004,2023,American baseball player (born 2004)
+2004,2023,American basketball player (born 2004)
+2004,2023,American football player (born 2004)
+2004,2023,American football player (born 2004)
+2004,2023,Estonian basketball player
+2004,2023,American basketball player (born 2004)
+2004,2023,Trinidadian footballer
+2004,2023,American basketball player (born 2004)
+2005,2023,Brazilian jiu-jitsu practitioner from the US (born 2004)
+2004,2023,American ice hockey player (born 2004)
+2004,2023,Honduran footballer
+2004,2023,American basketball player (born 2004)
+2004,2023,American ice hockey player
+2004,2023,American soccer player
+2004,2023,American soccer player
+2004,2023,American baseball player
+2004,2023,Argentine footballer (born 2004)
+2004,2023,American basketball player (born 2004)
+2004,2023,NASCAR driver
+2004,2023,American football player (born 2004)
+2004,2023,American singer
+2004,2023,American athlete
+2004,2023,American filmmaker and actor
+2004,2023,American professional wrestler
+2004,2023,American ice hockey player (born 2004)
+2004,2023,Cameroonian footballer
+2004,2023,American ice hockey player (born 2004)
+2004,2023,Musical artist
+2004,2023,Ghanaian footballer (born 2004)
+2004,2023,Baseball player
+2004,2023,Baseball player
+2004,2023,American baseball player
+2004,2023,Baseball player
+2004,2023,American basketball player
+2004,2023,German footballer (born 2004)
+2004,2023,American Paralympic sprinter
+2004,2023,American actor
+2004,2023,American synchronized swimmer (born 2004)
+2004,2023,American racing driver
+2004,2023,Panamanian footballer
+2004,2023,American soccer player (born 2004)
+2004,2023,Surinamese sprinter (born 2004)
+2004,2023,American football player (born 2004)
+2004,2023,American racing driver (born 2004)
+2004,2023,Footballer (born 2004)
+2004,2023,American cyclist
+2004,2023,American football player (born 2004)
+2004,2023,American tennis player
+2004,2023,American soccer player
+2004,2023,Ugandan footballer (born 2004)
+2004,2023,American soccer player (born 2004)
+2004,2023,American soccer player (born 2004)
+2004,2023,Mexican racing driver (born 2004)
+2000,2023,American football player (born 2004)
+2004,2023,South African soccer player (born 2004)
+2004,2023,Footballer (born 2004)
+2004,2023,Argentine footballer (born 2004)
+2004,2023,American football player (born 2004)
+2004,2023,Swedish ice hockey player (born 2004)
+2004,2023,American football player (born 2004)
+2004,2023,Professional footballer (born 2003)
+2004,2023,American soccer player
+2004,2023,American football player (born 2004)
+2004,2023,Japanese footballer (born 2004)
+2004,2023,Finnish basketball player
+2004,2023,American ice hockey player
+2004,2023,South Korean singer (born 2004)
+2004,2023,British-American actress (born 2004)
+2004,2023,American basketball player
+2004,2023,American rhythmic gymnast
+2004,2023,Canadian swimmer (born 2004)
+2004,2023,Israeli footballer (born 2004)
+2004,2023,American football player (born 2004)
+2004,2023,American ice hockey player (born 2004)
+2004,2023,American basketball player
+2004,2023,American-Israeli basketball player (born 2004)
+2004,2023,American basketball player (born 2004)
+2004,2023,American college basketball player (born 2004)
+2004,2023,American figure skater
+2004,2023,American actress (born 2004)
+2004,2023,American football player (born 2004)
+2004,2023,American soccer player (born 2004)
+2004,2023,Singapore golfer
+2004,2023,Caymanian footballer (born 2004)
+2004,2023,Italian footballer (born 2004)
+2004,2023,Eritrean singer-songwriter (born 2004)
+2004,2024,American rapper
+2004,2024,American trampoline gymnast
+2004,2024,American trampoline gymnast
+2004,2024,American football player (born 2004)
+2004,2024,Australian basketball player (born 2004)
+2004,2024,American rapper
+2004,2024,American basketball player
+2004,2024,Brazilian racing driver
+2004,2024,American professional golfer
+2004,2024,Trinidadian footballer
+2004,2024,Ghanaian footballer (born 2004)
+2004,2024,Cameroonian basketball player (born 2004)
+2004,2024,Brazilian-American surfer
+2004,2024,American ski jumper
+2004,2024,Australian basketball player (born 2004)
+2004,2024,Canadian sprinter
+2004,2024,American basketball player (born 2004)
+2004,2024,Canadian racing driver (born 2004)
+2004,2024,American pairs skater
+2005,2024,Malian footballer
+2004,2024,Rugby player
+2004,2024,American professional golfer
+2004,2024,American actress.
+2004,2024,American ice hockey player (born 2004)
+2004,2024,American racing driver
+2004,2024,American ice hockey player (born 2004)
+2004,2024,American basketball player (born 2004)
+2004,2024,American football player (born 2004)
+2004,2024,American professional wrestler (born 2004)
+2004,2024,Nigerian athlete
+2004,2024,English footballer
+2004,2024,American ice hockey player (born 2004)
+2004,2024,American soccer player (born 2004)
+2004,2024,American ice hockey player (born 2004)
+2004,2024,American football player (born 2004)
+2004,2024,Ugandan runner (born 2004)
+2004,2024,American chess arena grandmaster (born 2004)
+2004,2024,British swimmer
+2004,2024,American actress and comedian
+2004,2024,American football player (born 2004)
+2004,2024,American football player (born 2004)
+2004,2024,Australian basketball player
+2004,2024,American racing driver
+2004,2024,American basketball player
+2004,2024,Swedish golfer
+2004,2024,American soccer player (born 2004)
+2004,2024,American soccer player
+2004,2024,Italian basketball player (born 2004)
+2004,2024,American football player (born 2004)
+2004,2024,Indian athlete
+2004,2024,Italian and American soccer player (born 2004)
+2004,2024,American athlete (born 2004)
+2004,2024,American soccer player (born 2004)
+2004,2024,Canadian tennis player (born 2004)
+2004,2024,Baseball player
+2004,2024,American field hockey player (born 2004)
+2004,2024,American football defensive end (born 2004)
+2004,2024,American serial killer
+2004,2024,American racing driver
+2004,2024,American athlete (born 2004)
+2004,2024,Australian racing driver
+2004,2024,Canadian ice hockey player (born 2004)
+2004,2024,American swimmer
+2004,2024,Salvadoran professional footballer
+2004,2024,American diver (born 2004)
+2004,2024,American racing driver (born 2004)
+2004,2024,American basketball player (born 2004)
+2004,2024,Baseball player
+2004,2024,Nigerian athlete (born 2004)
+2004,2024,American soccer player
+2004,2024,American racing driver and crew chief
+2004,2024,American professional boxer
+2004,2024,No occupation found
+2004,2024,American baseball player (born 2004)
+2004,2024,Hungarian tennis player (born 2004)
+2004,2024,No occupation found
+2005,2010,Filipino actress (born 2005)
+2005,2012,American actor
+2005,2014,Pediatric brain cancer patient
+2005,2014,American cancer victim (2005–2014)
+2005,2014,American actress (born 2005)
+2005,2015,American actress (born 2005)
+2004,2015,Filipina-American stage actress
+2005,2015,American child actor
+2005,2015,American chess player (born 2005)
+2005,2016,American actress (born 2005)
+2005,2016,American actor
+2005,2016,American actress
+2005,2016,American actor and skateboarder (born 2005)
+2005,2016,American actor (born 2005)
+2005,2015,Russian fashion model
+2005,2016,American actress (born 2005)
+2005,2016,American Latina child actress and author.
+2005,2016,Georgian singer (born 2005)
+2005,2016,American actor
+2005,2017,American actress (born 2005)
+2005,2017,American actress and television personality
+2005,2018,American child actress
+2005,2018,American former figure skater
+2005,2018,American inventor (born 2005)
+2005,2019,American soccer player (born 2005)
+2005,2019,American actress, singer, and dancer (born 2005)
+2005,2019,American climate activist
+2005,2019,American child candy entrepreneur
+2005,2019,American actress (born 2005)
+2005,2019,American artistic gymnast
+2005,2019,American actor, and musician (born 2005)
+2005,2019,Lithuanian basketball player
+2005,2019,American artistic gymnast
+2005,2020,American actress
+2005,2020,American entertainer
+2005,2020,Professional footballer (born 2005)
+2005,2020,American badminton player
+2005,2020,American actress
+2005,2020,American child actor (born 2005)
+2005,2020,American racing driver
+2005,2020,2013 murder of an abused eight-year-old American boy
+2005,2020,Canadian fencer (born 2005)
+2005,2020,American actor and singer (born 2005)
+2005,2020,American artistic gymnast
+2005,2020,American child actress (born 2005)
+2005,2020,American Paralympic athlete
+2005,2020,American racing driver
+2005,2020,American soccer player
+2005,2020,American soccer player
+2005,2020,Professional soccer player (born 2005)
+2005,2020,American soccer player
+2005,2020,American soccer player
+2005,2020,American basketball player
+2005,2020,American football player (born 2005)
+2005,2020,Liberian footballer
+2005,2020,American soccer player
+2005,2020,American soccer player
+2005,2020,Spanish singer
+2005,2020,American actress
+2005,2020,American singer and actress (born 2005)
+2005,2020,American actress (born 2005)
+2005,2020,American racing driver (born 2005)
+2005,2021,American racing driver (born 2005)
+2005,2021,Professional footballer
+2005,2021,Chinese tennis player (born 2005)
+2005,2021,American soccer player
+2005,2021,American soccer player
+2005,2021,American para-badminton player (born 2005)
+2005,2021,Mexican footballer
+2005,2021,Colombian-American racing driver (born 2005)
+2005,2021,American swimmer
+2005,2021,American soccer player
+2005,2021,American soccer player
+2005,2021,American soccer player
+2005,2021,American soccer player
+2005,2021,American musician (born 2005)
+2005,2021,American basketball player
+2005,2021,American soccer player
+2005,2021,American soccer player
+2005,2021,American racing driver (born 2005)
+2005,2021,Canadian professional soccer player
+2005,2022,American racing driver
+2005,2022,American racing driver
+2005,2022,American figure skater
+2005,2022,American racing driver
+2005,2022,American racing driver
+2005,2022,Filipino footballer
+2005,2022,American professional soccer player (born 2005)
+2005,2022,American internet personality (born 2005)
+2005,2022,American actress (born 2005)
+2005,2022,American racing driver
+2005,2022,American racing driver
+2005,2022,American soccer player
+2005,2022,Filipina racing driver (born 2005)
+2005,2022,American soccer player
+2005,2022,American soccer player (born 2005)
+2005,2022,Professional footballer (born 2005)
+2005,2022,American soccer player
+2005,2022,Turkish footballer
+2005,2022,American swimmer (born 2005)
+2005,2022,Swedish racing driver (born 2005)
+2005,2022,American tennis player
+2005,2022,American baseball player (born 2005)
+2005,2022,Colombian racing driver (born 2005)
+2005,2022,American racing driver
+2005,2022,American artistic gymnast (born 2005)
+2005,2022,American artistic gymnast
+2005,2022,Canadian racing driver (born 2005)
+2005,2022,American tennis player
+2005,2022,American athlete (born 2005)
+2005,2022,Jamaican athlete (born 2005)
+2005,2022,American swimmer
+2005,2022,American athlete
+2004,2022,American soccer player (born 2005)
+2005,2022,American tennis player (born 2005)
+2005,2022,American soccer player
+2005,2022,Israeli-American ice dancer
+2005,2022,Belgian tennis player
+2005,2022,Mexican racing driver
+2005,2022,American singer-songwriter (born 2005)
+2005,2022,Professional soccer player
+2005,2022,Serbian footballer (born 2005)
+2005,2022,American-Indian racing driver (born 2005)
+2005,2022,No occupation found
+2005,2022,No occupation found
+2005,2022,Mexican footballer (born 2005)
+2005,2022,American soccer player (born 2005)
+2005,2022,American soccer player
+2005,2022,Canadian soccer player (born 2005)
+2005,2022,American basketball player (born 2005)
+2005,2022,American football player (born 2005)
+2005,2023,American soccer player
+2005,2023,American chess grandmaster (born 2005)
+2005,2023,Professional soccer player
+2005,2023,American tennis player
+2005,2023,American basketball player (born 2005)
+2005,2023,American long-distance runner (born 2005)
+2005,2023,Spanish basketball player
+2005,2023,American baseball player (born 2005)
+2005,2023,American baseball player
+2005,2023,Mexican footballer (born 2005)
+2005,2023,American soccer player
+2005,2023,American soccer player
+2005,2023,American soccer player (born 2005)
+2005,2023,American soccer player (born 2005)
+2005,2023,American actor (born 2005)
+2007,2023,American actress
+2005,2023,Canadian ice hockey player (born 2005)
+2005,2023,American ice hockey player (born 2005)
+2005,2023,Spanish basketball player
+2005,2023,American rapper (born 2005)
+2005,2023,American singer and rapper (born 2005)
+2005,2023,American racing driver
+2005,2023,Romanian rhythmic gymnast
+2005,2023,New Zealand basketball player
+2005,2023,Belgian golfer
+2005,2023,Peruvian tennis player (born 2005)
+2005,2023,American rhythmic gymnast
+2005,2023,Slovenian basketball player
+2005,2023,American ice hockey player (born 2005)
+2005,2023,Swedish ice hockey player (born 2005)
+2005,2023,American ice hockey player (born 2005)
+2005,2023,Canadian ice hockey player (born 2005)
+2005,2023,Canadian ice hockey player (born 2005)
+2005,2023,American ice hockey player (born 2005)
+2005,2023,Canadian ice hockey player (born 2005)
+2005,2023,American baseball player
+2005,2023,American athlete
+2005,2023,American athlete
+2005,2023,American baseball player
+2005,2023,American baseball player (born 2005)
+2005,2023,Baseball player
+2005,2023,American baseball player (born 2005)
+2006,2023,American racing driver
+2005,2023,New Zealand footballer (born 2005)
+2005,2023,American professional wrestler (born 2005)
+2005,2023,Costa Rican footballer (born 2005)
+2005,2023,Jamaican footballer (born 2001)
+2005,2023,American soccer player (born 2005)
+2005,2023,American baseball player (born 2005)
+2005,2023,American soccer player (born 2005)
+2005,2023,New Zealand footballer (born 2005)
+2005,2023,Jamaican footballer (born 2005)
+2005,2023,American tennis player (born 2005)
+2005,2023,American tennis player (born 2005)
+2005,2023,American tennis player (born 2005)
+2005,2023,English association football player (born 2005)
+2005,2023,American actress
+2005,2023,American football player (born 2005)
+2005,2023,American football player (born 2005)
+2005,2023,American basketball player
+2005,2023,American ice dancer
+2005,2023,English footballer
+2005,2023,American-South Sudanese basketball player
+2005,2023,American football player (born 2005)
+2005,2023,American basketball player
+2005,2023,American chef and internet personality
+2005,2023,Belarusian ice hockey player (born 2005)
+2005,2023,Guamanian footballer
+2005,2023,American basketball player
+2005,2023,American cyclist
+2005,2023,Brazilian footballer
+2005,2023,American field hockey player (born 2005)
+2005,2023,American basketball player
+2005,2023,American field hockey player (born 2005)
+2005,2023,American football wide receiver (born 2005)
+2005,2023,American football player (born 2005)
+2005,2023,American basketball player (born 2005)
+2005,2023,American songwriter and musician
+2005,2023,American soccer player (born 2005)
+2005,2023,Canadian soccer player (born 2005)
+2005,2023,American Paralympic swimmer
+2005,2024,American baseball player (born 2005)
+2005,2024,American ice hockey player (born 2005)
+2005,2024,American soccer player (born 2005)
+2005,2024,American soccer player
+2005,2024,American basketball player (born 2005)
+2005,2024,Professional footballer
+2005,2024,Dominican Republic association football player
+2005,2024,Colombian footballer
+2005,2024,American surfer
+2005,2024,Panamanian footballer
+2005,2024,American electric racing driver
+2005,2024,Musical artist
+2005,2024,American soccer player (born 2005)
+2005,2024,American football player (born 2005)
+2005,2024,American football player (born 2005)
+2005,2024,Venezuelan footballer (born 2005)
+2005,2024,American actress and singer
+2005,2024,American basketball player
+2005,2024,American ice hockey player (born 2005)
+2005,2024,American athlete
+2005,2024,American basketball player (born 2005)
+2005,2024,American ice hockey player (born 2005)
+2005,2024,Dominican baseball player (born 2005)
+2005,2024,Egyptian basketball player
+2005,2024,Baseball player
+2005,2024,Nigerian athlete
+2005,2024,American rapper
+2005,2024,American racing driver
+2005,2024,American softball player (born 2003)
+2005,2024,American golfer (born 2005)
+2005,2024,American rapper (born c.2005)
+2005,2024,American synchronized swimmer (born 2005)
+2005,2024,American soccer player (born 2005)
+2005,2024,Canadian basketball player (born 2005)
+2005,2024,American baseball player (born 2005)
+2005,2024,American baseball player (born 2005)
+2005,2024,Baseball player
+2005,2024,German golfer (born 2005)
+2005,2024,American basketball player
+2005,2024,American soccer player (born 2005)
+2006,2013,American actor and comedian (born 1966)
+2006,2014,American medical cannabidiol patient
+2006,2014,Norwegian singer (born 2006)
+2006,2014,American voice actor and YouTuber (born 2006)
+2006,2015,American actor
+2006,2015,American child actress (born 2006)
+2006,2015,American actress and singer (born 2006)
+2006,2016,Child victim of the 2015 Zabul massacre
+2006,2016,American journalist (born 2006)
+2006,2016,American actress (born 2006)
+2006,2016,American actor
+2006,2017,American rapper
+2006,2018,American activist (born 2006)
+2006,2018,American singer (born 2006)
+2006,2018,American actress (born 2006)
+2006,2019,Kazakh singer (born 2006)
+2006,2019,American actor (born 2006)
+2006,2019,American actress (born 2006)
+2006,2014,American teen actress and singer
+2006,2019,American child actress (2006–2019)
+2006,2019,Canadian actress
+2006,2020,American sports radio personality (2006–2020)
+2006,2020,American actress (born 2006)
+2006,2020,American climate activist
+2006,2020,American actress
+2006,2020,African-American teenager (2006–2020)
+2006,2020,American chess grandmaster (born 2006)
+2006,2021,American actress (born 2006)
+2006,2021,Uruguayan football player (born 2006)
+2006,2021,American soccer player
+2006,2021,American actor and boxer (born 2006)
+2006,2021,2012 mass shooting in Newtown, Connecticut, US
+2006,2021,British-American park skateboarder
+2006,2021,American artistic gymnast
+2006,2021,American swimmer
+2006,2021,American soccer player
+2006,2021,Romanian footballer
+2006,2021,Canadian actress (born 2006)
+2006,2021,American racing driver (born 2006)
+2006,2021,American actor (b. 2008)
+2006,2021,American cricketer
+2006,2021,American cricketer
+2006,2021,American cricketer
+2006,2021,American racing driver
+2006,2021,American artistic gymnast
+2006,2021,Mass shooting in Oxford Township, Michigan, US
+2006,2022,American racing driver
+2006,2022,American soccer player
+2006,2022,American tennis player (born 2006)
+2006,2022,American racing driver
+2006,2022,Venezuelan footballer (born 2006)
+2006,2022,American amateur golfer
+2006,2022,American racing driver
+2006,2022,American soccer player (born 2006)
+2006,2022,Korean-American figure skater
+2006,2022,American beauty pageant contestant (2006–2022)
+2006,2022,Canadian-American swimmer
+2006,2022,Australian racing driver (born 2006)
+2006,2022,Canadian tennis player (born 2006)
+2006,2022,US-born Ghanaian unicyclist
+2006,2022,American swimmer (born 2006)
+2006,2022,American rapper (born 2006)
+2006,2022,American swimmer
+2006,2022,Israeli-American ice dancer
+2006,2022,Footballer (born 2006)
+2006,2022,American figure skater
+2006,2022,American soccer player
+2006,2022,American-Spanish football player
+2007,2022,American actor
+2006,2022,American swimmer
+2006,2022,American basketball player (born 2006)
+2006,2022,Portuguese footballer
+2006,2022,American racing driver
+2006,2022,Filipino footballer
+2006,2023,Canadian ice hockey player (born 2006)
+2006,2023,American ice hockey player (born 2006)
+2006,2023,British racing driver
+2006,2023,American soccer player
+2006,2023,American professional stock car racing driver
+2006,2023,American soccer player
+2006,2023,American basketball player
+2006,2023,American-Venezuelan baseball player (born 2006)
+2006,2023,American actress
+2006,2023,Soccer player (born 2006)
+2006,2023,American artistic gymnast
+2006,2023,American rapper (born 20 February 2006)
+2006,2023,Spanish footballer (born 2006)
+2006,2023,American racing driver
+2006,2023,American basketball player
+2006,2023,American artistic gymnast
+2006,2023,Musical artist drill rapper 17 years old
+2006,2023,Gambia-born American soccer player (born 2006)
+2006,2023,Serbian basketball player (born 2006)
+2006,2023,Canadian soccer player
+2006,2023,American musician (born 2006)
+2006,2022,American figure skater (born 2006)
+2006,2023,Filipino footballer (born 2006)
+2006,2023,Ghanaian footballer
+2006,2023,Filipino footballer (born 2006)
+2006,2023,American motorcycle racer
+2006,2023,American racing driver
+2006,2023,English footballer (born 2006)
+2006,2023,American tennis player
+2006,2023,American tennis player
+2006,2023,American tennis player
+2006,2023,American soccer player
+2006,2023,Liberian footballer (born 2006)
+2006,2023,American racing driver
+2006,2023,American racing driver
+2006,2023,American actor
+2006,2023,American artistic gymnast
+2006,2023,American soccer player
+2006,2023,Bulgarian footballer (born 2006)
+2006,2023,Russian ice hockey player (born 2006)
+2006,2023,American rhythmic gymnast
+2006,2023,American soccer player (born 2006)
+2006,2023,American athlete
+2006,2023,American racing driver (born 2006)
+2006,2023,Finnish footballer (born 2006)
+2006,2023,Finnish footballer (born 2006)
+2006,2023,Australian tennis player
+2006,2023,American racing driver
+2006,2023,American chess grandmaster (born 2006)
+2006,2024,American soccer player
+2006,2024,Canadian ice hockey player (born 2006)
+2006,2024,American ice hockey player (born 2006)
+2006,2024,American soccer player (born 2006)
+2006,2024,American ice hockey player (born 2006)
+2006,2024,American tennis player
+2006,2024,American tennis player
+2006,2024,Salvadoran footballer
+2006,2024,American swimmer (born 2006)
+2006,2024,American basketball player (born 2006)
+2006,2024,American racing driver
+2006,2024,Iranian student (2006–2022)
+2006,2024,American soccer player (born 2006)
+2006,2024,American soccer player (born 2006)
+2006,2024,American basketball player
+2006,2024,American baseball player (born 2006)
+2006,2024,American boxer
+2006,2024,American politician and youngest legislator in Washington state (born 2006)
+2006,2024,Nigerian athlete
+2006,2024,American basketball player (born 2006)
+2006,2024,Canadian basketball player
+2006,2024,American tennis player (born 2006)
+2006,2024,American chess player
+2006,2024,American soccer player (born 2006)
+2006,2024,American soccer player
+2006,2024,Filipino-American artistic gymnast
+2006,2024,Finnish footballer (born 2006)
+2006,2024,Nigerian athlete
+2006,2024,American racing driver
+2006,2024,American soccer player (born 2006
+2006,2024,American racing driver
+2006,2009,American basketball player (2006–2020)
+2006,2024,American ice hockey player
+2006,2024,American track and field athlete (born 2006)
+2006,2024,U.S. Virgin Islands athlete (born 2006)
+2006,2024,American racing driver (born 2006)
+2006,2024,Russian basketball player (born 2006)
+2006,2024,American baseball player (born 2006)
+2006,2024,Canadian ice hockey player (born 2006)
+2006,2024,American ice hockey player (born 2006)
+2006,2024,Lithuanian basketball player
+2006,2024,American racing driver and crew chief
+2006,2024,American Composer (born 2006)
+2006,2024,American baseball player (born 2006)
+2006,2024,American soccer player (born 2006)
+2006,2024,American soccer player
+2007,2013,American actress (born 2007)
+2007,2013,American actor
+2007,2014,American child actor
+2007,2015,American actress
+2007,2016,American actress
+2007,2017,American actor
+2007,2017,American dancer (born 2007, in Boulder, Colorado)
+2007,2018,American actor, dancer and singer
+2007,2018,American actor (born 2007)
+2007,2018,Child drag performer (born 2007)
+2007,2018,American actress
+2007,2018,American activist and internet personality
+2007,2019,American actress (born 2007)
+2007,2019,American actor
+2007,2020,American actress and model
+2007,2020,American actor
+2007,2020,American singer (born 2007)
+2007,2021,American actress (born 2007)
+2007,2021,American actor
+2007,2021,2021 police killing of a thirteen-year-old Latino boy in Chicago, Illinois, United States
+2007,2021,American actress
+2007,2021,2021 Scripps National Spelling Bee winner
+2007,2021,American chess player (born 2007)
+2007,2021,Ivorian footballer
+2007,2021,American actress, singer, and dancer
+2007,2021,American actress
+2007,2022,American figure skater
+2007,2022,American- Srilankan artistic gymnast
+2007,2022,American artistic gymnast
+2007,2022,American racing driver (born 2007)
+2007,2022,American swimmer
+2007,2022,Romanian-American rhythmic gymnast
+2007,2022,American actor
+2007,2022,American swimmer (born 2007)
+2007,2022,American singer, rapper and actress (born 2007)
+2007,2022,American professional pickleball player
+2007,2022,American rock climber
+2007,2022,American rapper (born 2007)
+2007,2023,American soccer player
+2007,2023,English footballer
+2007,2023,American basketball player (born 2007)
+2007,2023,Brazilian racing driver
+2007,2023,American racing driver
+2007,2023,American soccer player (born 2007)
+2007,2023,American soccer player
+2007,2023,American basketball player
+2007,2022,American basketball player (born 2007)
+2007,2023,American racing driver
+2007,2023,American racing driver
+2007,2023,American soccer player
+2007,2023,American actor (born 2007)
+2007,2023,South Korean footballer (born 2007)
+2007,2023,American basketball player (born 2007)
+2007,2023,American-Canadian internet personality and singer (born 2007)
+2007,2023,Indonesian-American footballer (born 2007)
+2007,2023,Antiguan footballer
+2007,2023,American racing driver
+2007,2023,American basketball player
+2007,2023,American basketball player
+2007,2023,American basketball player (born 2007)
+2007,2023,American soccer player
+2007,2023,American figure skater
+2007,2023,American soccer player (born 2007)
+2007,2024,American rhythmic gymnast
+2007,2024,American racing driver
+2007,2024,American rapper
+2007,2024,American Tetris player (born 2007)
+2007,2024,American tennis player (born 2007)
+2007,2024,American soccer player
+2007,2024,Liberian footballer (born 2007)
+2007,2024,American pairs skater
+2007,2024,Croatian footballer (born 2007)
+2007,2024,American actress
+2007,2024,American racing driver
+2007,2024,American soccer player (born 2007)
+2007,2024,American racing driver
+2007,2024,American soccer player (born 2007)
+2007,2024,American basketball player
+2007,2024,American soccer player
+2007,2024,Northern Marianas footballer
+2007,2024,American tennis player
+2007,2024,American football player (born 2007)
+2007,2024,Mexican artistic gymnast
+2007,2024,American football player (born 2007)
+2007,2024,American football player (born 2007)
+2007,2024,American-born Romanian artistic gymnast
+2007,2024,French-American diver
+2007,2024,Granddaughter of Donald Trump (born 2007)
+2007,2024,American soccer player (born 2007)
+2008,2013,American child prodigy (born 2008)
+2008,2015,American actress (born 2008)
+2008,2017,American actor (born 2008)
+2008,2017,American singer
+2008,2017,American actor (born 2008)
+2008,2018,American singer
+2010,2018,American actor
+2008,2018,American child actor (born 2008)
+2008,2020,American child actor (born 2008)
+2008,2020,Brazilian skateboarder
+2008,2020,American model, dancer and YouTuber
+2008,2021,American actor
+2008,2021,American swimmer
+2008,2021,Actress (b. 2008)
+2008,2021,Polish singer and songwriter
+2008,2022,American actress (born 2008)
+2008,2022,American racing driver
+2008,2022,American student
+2008,2022,American pair skater
+2008,2022,American soccer player
+2008,2023,American actress (born 2008)
+2008,2023,American artistic gymnast (born 2008)
+2007,2023,American tennis player
+2008,2023,American tennis player (born 2008)
+2008,2023,American rhythmic gymnast
+2008,2023,American racing driver
+2008,2023,American racing driver
+2008,2023,American rhythmic gymnast
+2008,2023,American soccer player
+2008,2023,Soccer player (born 2008)
+2008,2023,Northern Marianas footballer
+2008,2023,American rhythmic gymnast
+2008,2024,American racing driver
+2008,2024,2024 death of a nonbinary American teenager
+2008,2024,American athlete
+2008,2024,Chilean footballer (born 2008)
+2008,2024,Welsh footballer
+2008,2024,American model and actress (born 2008)
+2008,2024,American rapper and singer
+2008,2024,American artistic gymnast
+2008,2024,American artistic gymnast (born 2008)
+2008,2024,American actor
+2008,2024,American track and field athlete (born 2008)
+2008,2024,American racing driver
+2008,2024,American basketball player
+2009,2009,American octuplets conceived via in vitro fertilization
+2009,2012,American girl with genetic disorder
+2009,2016,Syrian girl who tweets from Aleppo (born 2009)
+2009,2017,American basketball player
+2009,2019,American actress
+2009,2019,Child prodigy and spelling competitor
+2009,2019,American chess grandmaster (born 2009)
+2009,2020,American actress (born 2009)
+2009,2020,American actor (born 2009)
+2009,2020,Canadian child actor (born 2009)
+2009,2021,American actress (born 2009)
+2009,2021,American actress (born 2009)
+2009,2021,American actress and Youtuber
+2009,2021,American actress (born 2009)
+2009,2022,American actress (born 2009)
+2009,2022,American chess player (born 2009)
+2009,2022,American actor (born 2009)
+2009,2023,American actor (born 2009)
+2009,2023,Bangladeshi-American software engineer (born 2009)
+2009,2023,Indian-American environmental campaigner
+2009,2023,Jamaican-American actress
+2008,2023,American television and film actress
+2009,2023,American actress (born 2009)
+2009,2024,American golfer
+2009,2024,American soccer player (born 2009)
+2009,2024,American chess player (born 2009)
+2009,2024,American artistic gymnast
+2009,2024,American rhythmic gymnast (born 2009)
+2009,2024,American racing driver (born 2009)
+2010,2014,American girl thought to be cured of HIV
+2010,2016,American activist (born 2010)
+2010,2018,American record setter
+2010,2020,American Magic: The Gathering player, writer, commentator, and cosplayer
+2010,2020,Nigerian-American chess player (born 2010)
+2010,2021,Internet meme from 2013
+2010,2021,American actor
+2010,2023,American actress (born 2010)
+2010,2023,Professional footballer (born 2010)
+2010,2024,American classic Tetris player (born 2010)
+2010,2024,American chess grandmaster (born 2010)
+2010,2024,American journalist
+2010,2024,American soccer player (born 2010)
+2010,2024,American actress (born 2010)
+2010,2024,American rhythmic gymnast (born 2010)
+2010,2024,American actress
+2011,2016,Syrian boy injured in an air strike
+2011,2016,American child actor (born 2011)
+2011,2019,US-based Ghanaian author
+2011,2021,American actress
+2012,2015,Two-year-old Syrian boy who died from capsized boat, August 2015
+2012,2015,American singer (born 2012)
+2012,2021,American child actor (born 2012)
+2012,2021,American singer (born 2012)
+2012,2022,American child actress (born 2012)
+2012,2023,American actress (Born 2012)
+2012,2024,American author and food allergy advocate (born 2012)
+2013,2018,YouTube personality duo (born 2013)
+2013,2023,American actor
+2013,2024,American musician (born 2013)
+2014,2014,Heir apparent to the Monégasque throne (born 2014)
+2014,2014,Countess of Carladès (born 2014)
+2014,2019,American YouTuber (born 2000)
+2014,2019,Russian-American YouTuber (born 2014)
+2014,2020,American disabled child (2014–2020)
+2015,2016,Member of Monegasque royal family
+2015,2023,Mongolian Buddhist leader (born c. 2015)
+2018,2021,American Mensan and child prodigy
+2019,2019,Member of the British royal family (born 2019)
+2020,2020,Businessman and investor (born 1971)
+2020,2022,American girl and longest frozen embryo to be born
+2021,2021,Member of the British royal family (born 2021)
+2021,2021,Australian television series
