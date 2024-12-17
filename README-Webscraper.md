@@ -15,3 +15,5 @@ Plotting.py, and Boxplot.py
 These two will generate different graphs according to the user. The boxplot.py will generate a boxplot according to a set number of quantiles which can change according to the user's preference. The Plotting.py will mainly generate a violin plot, but easily can be change to a scatterplot as well. 
 
 All the csv files will be uploaded. The depth used to generate the data for all of these csv files was depth = 10. The depth is an important part of the query and can possibly significantly change the results of the generated data depending on what number is used for the depth.
+
+The project is about webscraping data of individuals brithdate and also the wikipedia page creation date. We want to find any correlations between the birthdate and the pagecreation date. We want to ask possible questions such as do people become famoous when they are young, or is it gender, or is any external factors. The list goes on, on what types of questions that it can ask. 
