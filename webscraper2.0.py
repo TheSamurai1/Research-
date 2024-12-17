@@ -7,7 +7,7 @@ def getWikipediaTitlesByCategory(categories, downstream=True, intersect=True, wi
     if type(categories) == list:
         categories = "\n".join(categories)
 
-    depth = 10 if downstream else 0
+    depth = 1 if downstream else 0
     combination = "subset" if intersect else "union"
     url_catscan = wiki_scanner
 
@@ -33,6 +33,10 @@ def getWikipediaTitlesByCategory(categories, downstream=True, intersect=True, wi
         print(articles_json)
 
     return article_titles
+
+#first american born is 1587
+
+
 
 
 def get_first_revision_date(page_title):
@@ -128,28 +132,19 @@ def process_births(births_list, filename):
 
 # birthyear_X_2000s, pagecreationyear_Y_2000s, occupations_2000s = process_births(birthsin2000s_americans_list, "webscrapernumbers2024last.txt")
 
-years_1960s = list(range(2001, 2025))
-birthsin1960s_americans_list = []
+
 #also have to do 2024 for the previous csv file as well
+
+
+years_1960s = list(range(1587, 1588))
+birthsin1960s_americans_list = []
 for year in years_1960s:
     birthyears1960 = f"{year} births"
+    print(birthyears1960)
     birthsin1960s_americans = getWikipediaTitlesByCategory([birthyears1960, "American people"])
+
     birthsin1960s_americans_list.append(birthsin1960s_americans)
     print(len(birthsin1960s_americans))
 
-birthyear_X_1960s, pagecreationyear_Y_1960s, occupations_1960s = process_births(birthsin1960s_americans_list, "webscraper2001lastlast.txt")
-
-
-###HAVE TO MAKE SURE THAT IT WRITES PROPERLY TO COMPUTER SO TEST FOR ONE YEAR
-###HAVE TO THEN MAKE A SEPERATE FILES IG FOR EACH YEAR
-###MAKE SOMETHING THEN THAT COMBINES ALL THE TEXT FILES
-###THEN WE PLOT EVERYTHING
-### ALTERNATIVELY RUN EVERYTHING AFTER KNOWING IT PROPERLY WRITES TO A TXT FILE ON THE COMPUTER
-###MATPLOTLIB IS NOT WORKING AT ALL FIGURE SOMETHING OUT ABOUT THAT AS WELL
-
-# plt.xlabel("birthyear-label")
-# plt.ylabel("pagecreationyear-label")
-# plt.scatter(birthyear_X_2000s, pagecreationyear_Y_2000s, color='k', label='2000s')
-# plt.scatter(birthyear_X_1960s, pagecreationyear_Y_1960s, color='g', label='1960s')
-# plt.legend()
-# plt.show()
+print(birthsin1960s_americans, "here here")
+#birthyear_X_1960s, pagecreationyear_Y_1960s, occupations_1960s = process_births(birthsin1960s_americans_list, "justtesting.txt")
